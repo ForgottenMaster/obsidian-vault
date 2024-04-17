@@ -1,0 +1,17 @@
+The following sections will detail the implementation of the refactoring of our Eidetic API of which the new version can be found [HERE](https://github.com/ForgottenMaster/eidetic).
+
+This post in particular will provide a brief overview of the problems that the refactoring will address, then we will look at the step-by-step implementation of the new Eidetic API at a relatively high level since going into every line of code as we did with the initial implementation would take too long.
+
+Instead, we will explain **patterns** in code as they come up with the understanding that the logic implemented internally is more or less the same as in the original implementation (e.g. dense network layers are still consisting of a dot product, bias addition, and activation function).
+
+---
+# Why did we need to refactor? #
+
+The following issues were present with the original implementation of Eidetic which we aim to solve with the new version:
+
+1. **STD Reliance**. Dynamic allocations were everywhere in the API which didn't give the flexibility to choose whether you wanted to run in an environment that didn't support dynamic allocations/the standard library. Boxes were used in trait signatures and so there was no way to turn this off. The new API runs *without* the standard library by default but can be opted into for additional functionality if needed.
+2. **Error Detection**. There was no error handling in the original implementation of Eidetic and everything was using unwrapping under the hood. The new version ensures that any fallible function returns a Result so that the caller gets to decide if it's propagated up the stack or not.
+3. **Invalid Function Call Sequences**. The previous version of Eidetic didn't enforce that a forward pass must be performed before a backward pass in a training epoch. The result was that the caller could run a backward pass on a network before a forward pass and that the code would panic as a result of the lack of error detection. This is a result of the one type we used for representing the network having all functions on it that might be invoked. The new API solves this by using type states so that functions can only be run if the network is in the correct state at a type level (from calling a previous sequence of functions).
+4. **Inflexible Networks**. The previous API had networks that had their loss function *baked in* which meant that we couldn't have networks that were intended to be fed from other networks (for example when we try to implement a GAN) and that each network was a complete, trainable network in its own right. We solve this in the new API by keeping the loss function separated from the network.
+5. **Hardcoded Tensor Rank**. In the old API, operations were forced to have rank 2 tensors only but the new API allows them to define their own input/output/parameter types which will allow us to easily later on add in layers with tensor ranks greater than 2 (for example convolutional layers).
+6. **Code Bloat**. The old API had all data required by an operation be stored in that operation regardless of whether it's needed or not. For example running a forward pass would always store off the input and calculated output even if a backward pass isn't needed. The new API uses type states which means that each step of training is a separate type and so the operations are able to store just enough data that they will need but no more.

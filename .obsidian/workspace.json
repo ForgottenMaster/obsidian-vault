@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "4b3aa0609b63bdce",
+    "type": "split",
+    "children": [
+      {
+        "id": "bccb494f04ada564",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "27fc9ecff3cac489",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e492075d2629313b",
+    "type": "split",
+    "children": [
+      {
+        "id": "d5da4551c436d3e6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9acc9ab8b3d21215",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "da0be78ad485c2f5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "210bb475e6b4eef1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 482.5
+  },
+  "right": {
+    "id": "7b5dd3b1525c5b6f",
+    "type": "split",
+    "children": [
+      {
+        "id": "0113e2d76e9fbdce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7fbdaff371a257ad",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Vulkan/Let's Learn Vulkan/17. Textures Part 1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c4ec63dbed4385ec",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Vulkan/Let's Learn Vulkan/17. Textures Part 1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2f3639ab37fd457b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d2a4940aeba1f584",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Vulkan/Let's Learn Vulkan/17. Textures Part 1.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "9acc9ab8b3d21215",
+  "lastOpenFiles": [
+    "+Attachments/Vulkan/Let's Learn Vulkan/17. Textures Part 1/Texture To Use.jpg",
+    "Vulkan/Let's Learn Vulkan/17. Textures Part 1.md",
+    "+Attachments/Vulkan/Let's Learn Vulkan/17. Textures Part 1",
+    "Vulkan/Let's Learn Vulkan/16. Depth Buffers.md",
+    "Vulkan/Let's Learn Vulkan/15. Push Constants.md",
+    "+Attachments/Vulkan/Let's Learn Vulkan/16. Depth Buffers/Depth Buffer Representation.png",
+    "+Attachments/Vulkan/Let's Learn Vulkan/16. Depth Buffers/Depth Buffer Demo.gif",
+    "+Attachments/Vulkan/Let's Learn Vulkan/16. Depth Buffers",
+    "Vulkan/Let's Learn Vulkan/14. Dynamic UBOs.md",
+    "+Attachments/Vulkan/Let's Learn Vulkan/14. Dynamic UBOs/Incorrect Rotation.gif",
+    "+Attachments/Vulkan/Let's Learn Vulkan/14. Dynamic UBOs/Correct Rotation.gif",
+    "+Attachments/Vulkan/Let's Learn Vulkan/14. Dynamic UBOs",
+    "Vulkan/Let's Learn Vulkan/13. Uniform Buffer Objects.md",
+    "+Attachments/Vulkan/Let's Learn Vulkan/13. Uniform Buffer Objects/Descriptor Set Overview.png",
+    "+Attachments/Vulkan/Let's Learn Vulkan/13. Uniform Buffer Objects/Stretched Incorrect Quad.png",
+    "+Attachments/Vulkan/Let's Learn Vulkan/13. Uniform Buffer Objects/Rotating Quad With UBO.mp4",
+    "+Attachments/Vulkan/Let's Learn Vulkan/13. Uniform Buffer Objects/Correct Quad.png",
+    "+Attachments/Vulkan/Let's Learn Vulkan/13. Uniform Buffer Objects",
+    "Vulkan/Let's Learn Vulkan/12. Index Buffers.md",
+    "+Attachments/Vulkan/Let's Learn Vulkan/12. Index Buffers/Vertex Buffer Only Vs With Index Buffer.png",
+    "+Attachments/Vulkan/Let's Learn Vulkan/12. Index Buffers",
+    "Vulkan/Let's Learn Vulkan/11. Staging Buffers.md",
+    "+Attachments/Vulkan/Let's Learn Vulkan/11. Staging Buffers/Output From Staging Buffer.png",
+    "+Attachments/Vulkan/Let's Learn Vulkan/11. Staging Buffers/Memory Types.jpeg",
+    "+Attachments/Vulkan/Let's Learn Vulkan/11. Staging Buffers",
+    "Vulkan/Let's Learn Vulkan/10. Vertex Buffers.md",
+    "+Attachments/Vulkan/Let's Learn Vulkan/10. Vertex Buffers",
+    "Vulkan/Let's Learn Vulkan/9. Drawing.md",
+    "+Attachments/Vulkan/Let's Learn Vulkan/9. Drawing",
+    "Vulkan/Let's Learn Vulkan/8. Framebuffers and Command Buffers.md",
+    "+Attachments/Vulkan/Let's Learn Vulkan/8. Framebuffers and Command Buffers",
+    "Vulkan/Let's Learn Vulkan/7. Graphics Pipeline.md",
+    "Vulkan/Let's Learn Vulkan/6. Shaders.md",
+    "Vulkan/Let's Learn Vulkan/5. Swapchain.md",
+    "Vulkan/Let's Learn Vulkan/4. Surface.md",
+    "Vulkan/Let's Learn Vulkan/3. Validation.md",
+    "Vulkan/Let's Learn Vulkan/2. The Window, the Instance, and the Device.md",
+    "Vulkan/Let's Learn Vulkan/1. Setup.md",
+    "++TODO/vulkan/lets-learn-vulkan/_index.md",
+    "++TODO/vulkan/_index.md",
+    "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/7. Spawning.md",
+    "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/1. Setup.md",
+    "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/6. Blueprint Classes.md",
+    "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/5. Adding An Impulse.md",
+    "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/4. Object References.md",
+    "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/3. Physics Simulation.md"
+  ]
+}
