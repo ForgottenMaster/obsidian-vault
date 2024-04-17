@@ -11,8 +11,12 @@
             "id": "27fc9ecff3cac489",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Vulkan/Let's Learn Vulkan/7. Graphics Pipeline.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vulkan/Let's Learn Vulkan/17. Textures Part 1.md",
+                "file": "Vulkan/Let's Learn Vulkan/7. Graphics Pipeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vulkan/Let's Learn Vulkan/17. Textures Part 1.md",
+                "file": "Vulkan/Let's Learn Vulkan/7. Graphics Pipeline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vulkan/Let's Learn Vulkan/17. Textures Part 1.md"
+                "file": "Vulkan/Let's Learn Vulkan/7. Graphics Pipeline.md"
               }
             }
           }
@@ -142,8 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9acc9ab8b3d21215",
+  "active": "27fc9ecff3cac489",
   "lastOpenFiles": [
+    "Vulkan/Let's Learn Vulkan/4. Surface.md",
+    "Vulkan/Let's Learn Vulkan/2. The Window, the Instance, and the Device.md",
+    "Vulkan/Let's Learn Vulkan/1. Setup.md",
     "+Attachments/Vulkan/Let's Learn Vulkan/17. Textures Part 1/Texture To Use.jpg",
     "Vulkan/Let's Learn Vulkan/17. Textures Part 1.md",
     "+Attachments/Vulkan/Let's Learn Vulkan/17. Textures Part 1",
@@ -167,7 +174,6 @@
     "+Attachments/Vulkan/Let's Learn Vulkan/12. Index Buffers",
     "Vulkan/Let's Learn Vulkan/11. Staging Buffers.md",
     "+Attachments/Vulkan/Let's Learn Vulkan/11. Staging Buffers/Output From Staging Buffer.png",
-    "+Attachments/Vulkan/Let's Learn Vulkan/11. Staging Buffers/Memory Types.jpeg",
     "+Attachments/Vulkan/Let's Learn Vulkan/11. Staging Buffers",
     "Vulkan/Let's Learn Vulkan/10. Vertex Buffers.md",
     "+Attachments/Vulkan/Let's Learn Vulkan/10. Vertex Buffers",
@@ -178,10 +184,7 @@
     "Vulkan/Let's Learn Vulkan/7. Graphics Pipeline.md",
     "Vulkan/Let's Learn Vulkan/6. Shaders.md",
     "Vulkan/Let's Learn Vulkan/5. Swapchain.md",
-    "Vulkan/Let's Learn Vulkan/4. Surface.md",
     "Vulkan/Let's Learn Vulkan/3. Validation.md",
-    "Vulkan/Let's Learn Vulkan/2. The Window, the Instance, and the Device.md",
-    "Vulkan/Let's Learn Vulkan/1. Setup.md",
     "++TODO/vulkan/lets-learn-vulkan/_index.md",
     "++TODO/vulkan/_index.md",
     "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/7. Spawning.md",
