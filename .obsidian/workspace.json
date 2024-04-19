@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vulkan/Let's Learn Vulkan/7. Graphics Pipeline.md",
+                "file": "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/8. Firing Forwards.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vulkan/Let's Learn Vulkan/7. Graphics Pipeline.md",
+                "file": "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/8. Firing Forwards.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vulkan/Let's Learn Vulkan/7. Graphics Pipeline.md",
+                "file": "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/8. Firing Forwards.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vulkan/Let's Learn Vulkan/7. Graphics Pipeline.md"
+                "file": "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/8. Firing Forwards.md"
               }
             }
           }
@@ -133,8 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,11 +147,21 @@
   },
   "active": "27fc9ecff3cac489",
   "lastOpenFiles": [
+    "+Attachments/Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/8. Firing Forwards/Cannonball Spawning GIF.gif",
+    "+Attachments/Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/8. Firing Forwards/Updating Mass Manually.png",
+    "+Attachments/Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/8. Firing Forwards/Applying Impulse From Forward Vector.png",
+    "+Attachments/Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/8. Firing Forwards/Right Clicking Pin To Change Type.png",
+    "+Attachments/Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/8. Firing Forwards/Getting Control Rotation From Player Pawn In Blueprints.png",
+    "+Attachments/Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/8. Firing Forwards",
+    "+Attachments/Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/8. Firing Forwards/Getting Player Pawn Location In Blueprints.png",
+    "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/7. Spawning.md",
+    "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/8. Firing Forwards.md",
+    "Vulkan/Let's Learn Vulkan/17. Textures Part 1.md",
+    "Vulkan/Let's Learn Vulkan/7. Graphics Pipeline.md",
     "Vulkan/Let's Learn Vulkan/4. Surface.md",
     "Vulkan/Let's Learn Vulkan/2. The Window, the Instance, and the Device.md",
     "Vulkan/Let's Learn Vulkan/1. Setup.md",
     "+Attachments/Vulkan/Let's Learn Vulkan/17. Textures Part 1/Texture To Use.jpg",
-    "Vulkan/Let's Learn Vulkan/17. Textures Part 1.md",
     "+Attachments/Vulkan/Let's Learn Vulkan/17. Textures Part 1",
     "Vulkan/Let's Learn Vulkan/16. Depth Buffers.md",
     "Vulkan/Let's Learn Vulkan/15. Push Constants.md",
@@ -164,34 +173,25 @@
     "+Attachments/Vulkan/Let's Learn Vulkan/14. Dynamic UBOs/Correct Rotation.gif",
     "+Attachments/Vulkan/Let's Learn Vulkan/14. Dynamic UBOs",
     "Vulkan/Let's Learn Vulkan/13. Uniform Buffer Objects.md",
-    "+Attachments/Vulkan/Let's Learn Vulkan/13. Uniform Buffer Objects/Descriptor Set Overview.png",
-    "+Attachments/Vulkan/Let's Learn Vulkan/13. Uniform Buffer Objects/Stretched Incorrect Quad.png",
     "+Attachments/Vulkan/Let's Learn Vulkan/13. Uniform Buffer Objects/Rotating Quad With UBO.mp4",
-    "+Attachments/Vulkan/Let's Learn Vulkan/13. Uniform Buffer Objects/Correct Quad.png",
     "+Attachments/Vulkan/Let's Learn Vulkan/13. Uniform Buffer Objects",
     "Vulkan/Let's Learn Vulkan/12. Index Buffers.md",
-    "+Attachments/Vulkan/Let's Learn Vulkan/12. Index Buffers/Vertex Buffer Only Vs With Index Buffer.png",
     "+Attachments/Vulkan/Let's Learn Vulkan/12. Index Buffers",
     "Vulkan/Let's Learn Vulkan/11. Staging Buffers.md",
-    "+Attachments/Vulkan/Let's Learn Vulkan/11. Staging Buffers/Output From Staging Buffer.png",
     "+Attachments/Vulkan/Let's Learn Vulkan/11. Staging Buffers",
     "Vulkan/Let's Learn Vulkan/10. Vertex Buffers.md",
     "+Attachments/Vulkan/Let's Learn Vulkan/10. Vertex Buffers",
     "Vulkan/Let's Learn Vulkan/9. Drawing.md",
     "+Attachments/Vulkan/Let's Learn Vulkan/9. Drawing",
     "Vulkan/Let's Learn Vulkan/8. Framebuffers and Command Buffers.md",
-    "+Attachments/Vulkan/Let's Learn Vulkan/8. Framebuffers and Command Buffers",
-    "Vulkan/Let's Learn Vulkan/7. Graphics Pipeline.md",
     "Vulkan/Let's Learn Vulkan/6. Shaders.md",
     "Vulkan/Let's Learn Vulkan/5. Swapchain.md",
     "Vulkan/Let's Learn Vulkan/3. Validation.md",
     "++TODO/vulkan/lets-learn-vulkan/_index.md",
     "++TODO/vulkan/_index.md",
-    "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/7. Spawning.md",
     "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/1. Setup.md",
     "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/6. Blueprint Classes.md",
     "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/5. Adding An Impulse.md",
-    "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/4. Object References.md",
-    "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/3. Physics Simulation.md"
+    "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/4. Object References.md"
   ]
 }
