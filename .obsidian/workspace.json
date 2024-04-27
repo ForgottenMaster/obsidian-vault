@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/8. Firing Forwards.md",
+                "file": "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/9. Importing Assets.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/8. Firing Forwards.md",
+                "file": "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/9. Importing Assets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/8. Firing Forwards.md",
+                "file": "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/9. Importing Assets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/8. Firing Forwards.md"
+                "file": "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/9. Importing Assets.md"
               }
             }
           }
@@ -147,6 +147,14 @@
   },
   "active": "27fc9ecff3cac489",
   "lastOpenFiles": [
+    "+Attachments/Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/9. Importing Assets/GIF Showing Warehouse Destruction With Projectiles After Importing.gif",
+    "+Attachments/Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/9. Importing Assets/Opening Industry Props Pack 6 Showcase.PNG",
+    "+Attachments/Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/9. Importing Assets/Adding Props Pack 6 To Warehouse Wreckage Project.PNG",
+    "+Attachments/Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/9. Importing Assets/Adding Props Pack 6 To Project.PNG",
+    "+Attachments/Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/9. Importing Assets/Adding Industry Props Pack 6 To Library.png",
+    "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/9. Importing Assets.md",
+    "+Attachments/Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/9. Importing Assets",
+    "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/8. Firing Forwards.md",
     "+Attachments/Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/8. Firing Forwards/Cannonball Spawning GIF.gif",
     "+Attachments/Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/8. Firing Forwards/Updating Mass Manually.png",
     "+Attachments/Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/8. Firing Forwards/Applying Impulse From Forward Vector.png",
@@ -155,22 +163,16 @@
     "+Attachments/Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/8. Firing Forwards",
     "+Attachments/Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/8. Firing Forwards/Getting Player Pawn Location In Blueprints.png",
     "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/7. Spawning.md",
-    "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/8. Firing Forwards.md",
     "Vulkan/Let's Learn Vulkan/17. Textures Part 1.md",
     "Vulkan/Let's Learn Vulkan/7. Graphics Pipeline.md",
     "Vulkan/Let's Learn Vulkan/4. Surface.md",
     "Vulkan/Let's Learn Vulkan/2. The Window, the Instance, and the Device.md",
     "Vulkan/Let's Learn Vulkan/1. Setup.md",
-    "+Attachments/Vulkan/Let's Learn Vulkan/17. Textures Part 1/Texture To Use.jpg",
     "+Attachments/Vulkan/Let's Learn Vulkan/17. Textures Part 1",
     "Vulkan/Let's Learn Vulkan/16. Depth Buffers.md",
     "Vulkan/Let's Learn Vulkan/15. Push Constants.md",
-    "+Attachments/Vulkan/Let's Learn Vulkan/16. Depth Buffers/Depth Buffer Representation.png",
-    "+Attachments/Vulkan/Let's Learn Vulkan/16. Depth Buffers/Depth Buffer Demo.gif",
     "+Attachments/Vulkan/Let's Learn Vulkan/16. Depth Buffers",
     "Vulkan/Let's Learn Vulkan/14. Dynamic UBOs.md",
-    "+Attachments/Vulkan/Let's Learn Vulkan/14. Dynamic UBOs/Incorrect Rotation.gif",
-    "+Attachments/Vulkan/Let's Learn Vulkan/14. Dynamic UBOs/Correct Rotation.gif",
     "+Attachments/Vulkan/Let's Learn Vulkan/14. Dynamic UBOs",
     "Vulkan/Let's Learn Vulkan/13. Uniform Buffer Objects.md",
     "+Attachments/Vulkan/Let's Learn Vulkan/13. Uniform Buffer Objects/Rotating Quad With UBO.mp4",
@@ -182,7 +184,6 @@
     "Vulkan/Let's Learn Vulkan/10. Vertex Buffers.md",
     "+Attachments/Vulkan/Let's Learn Vulkan/10. Vertex Buffers",
     "Vulkan/Let's Learn Vulkan/9. Drawing.md",
-    "+Attachments/Vulkan/Let's Learn Vulkan/9. Drawing",
     "Vulkan/Let's Learn Vulkan/8. Framebuffers and Command Buffers.md",
     "Vulkan/Let's Learn Vulkan/6. Shaders.md",
     "Vulkan/Let's Learn Vulkan/5. Swapchain.md",
@@ -191,7 +192,6 @@
     "++TODO/vulkan/_index.md",
     "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/1. Setup.md",
     "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/6. Blueprint Classes.md",
-    "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/5. Adding An Impulse.md",
-    "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/4. Object References.md"
+    "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/5. Adding An Impulse.md"
   ]
 }
