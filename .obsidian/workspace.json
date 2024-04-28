@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/16. Pure Functions.md",
+                "file": "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/17. Member Functions.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/16. Pure Functions.md",
+                "file": "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/17. Member Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/16. Pure Functions.md",
+                "file": "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/17. Member Functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/16. Pure Functions.md"
+                "file": "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/17. Member Functions.md"
               }
             }
           }
@@ -147,22 +147,24 @@
   },
   "active": "8297e3c66cf11eaf",
   "lastOpenFiles": [
+    "+Attachments/Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/17. Member Functions/Hooking Up The Launch Member Function.png",
+    "+Attachments/Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/17. Member Functions/Locating Launch Member Function.png",
+    "+Attachments/Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/17. Member Functions/Fixed Member Function For Launch.png",
+    "+Attachments/Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/17. Member Functions/Compiler Error On Creating Member Function.png",
+    "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/Pasted image 20240428210844.png",
+    "+Attachments/Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/17. Member Functions/How To Open The Full Blueprint Editor.png",
+    "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/16. Pure Functions.md",
+    "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/17. Member Functions.md",
+    "+Attachments/Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/17. Member Functions",
     "+Attachments/Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/16. Pure Functions/Pure Function For Checking If We Have Ammo.png",
     "+Attachments/Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/16. Pure Functions/Checkbox To Mark Function As Pure.png",
     "+Attachments/Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/16. Pure Functions/Impure Function With Execution Pins.png",
     "+Attachments/Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/16. Pure Functions",
     "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/15. Creating Functions From Scratch.md",
-    "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/16. Pure Functions.md",
     "+Attachments/Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/15. Creating Functions From Scratch/Implemented Example Logged Add Function.png",
     "+Attachments/Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/15. Creating Functions From Scratch/Adding Output To The Function.png",
-    "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/Pasted image 20240428204409.png",
-    "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/Pasted image 20240428204343.png",
-    "+Attachments/Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/15. Creating Functions From Scratch/Adding Inputs To A Function.png",
-    "+Attachments/Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/15. Creating Functions From Scratch/Creating A Function From Scratch.png",
     "+Attachments/Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/15. Creating Functions From Scratch",
     "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/14. Using Blueprint Functions.md",
-    "+Attachments/Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/14. Using  Blueprint Functions/Refactored Event Graph With Functions For Warehouse Wreckage.png",
-    "+Attachments/Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/14. Using  Blueprint Functions/Renamed Spawn Projectile Function.png",
     "Machine Learning/Deep Learning From Scratch/Chapter 1 - Foundations/1.2 - Derivatives.md",
     "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/13. Adding Ammo.md",
     "+Attachments/Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/14. Using  Blueprint Functions",
@@ -178,7 +180,6 @@
     "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/9. Importing Assets.md",
     "+Attachments/Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/9. Importing Assets",
     "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/8. Firing Forwards.md",
-    "+Attachments/Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/8. Firing Forwards",
     "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/7. Spawning.md",
     "Vulkan/Let's Learn Vulkan/17. Textures Part 1.md",
     "Vulkan/Let's Learn Vulkan/7. Graphics Pipeline.md",
@@ -191,7 +192,6 @@
     "Vulkan/Let's Learn Vulkan/13. Uniform Buffer Objects.md",
     "Vulkan/Let's Learn Vulkan/12. Index Buffers.md",
     "Vulkan/Let's Learn Vulkan/11. Staging Buffers.md",
-    "Vulkan/Let's Learn Vulkan/10. Vertex Buffers.md",
-    "Vulkan/Let's Learn Vulkan/9. Drawing.md"
+    "Vulkan/Let's Learn Vulkan/10. Vertex Buffers.md"
   ]
 }
