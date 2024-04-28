@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/13. Adding Ammo.md",
+                "file": "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/14. Using Blueprint Functions.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/13. Adding Ammo.md",
+                "file": "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/14. Using Blueprint Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/13. Adding Ammo.md",
+                "file": "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/14. Using Blueprint Functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/13. Adding Ammo.md"
+                "file": "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/14. Using Blueprint Functions.md"
               }
             }
           }
@@ -147,6 +147,14 @@
   },
   "active": "8297e3c66cf11eaf",
   "lastOpenFiles": [
+    "+Attachments/Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/14. Using  Blueprint Functions/Refactored Event Graph With Functions For Warehouse Wreckage.png",
+    "+Attachments/Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/14. Using  Blueprint Functions/Renamed Spawn Projectile Function.png",
+    "+Attachments/Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/14. Using  Blueprint Functions/Option To Collapse Nodes Into Function.png",
+    "+Attachments/Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/14. Using  Blueprint Functions/Built-In Function Node Example.png",
+    "Machine Learning/Deep Learning From Scratch/Chapter 1 - Foundations/1.2 - Derivatives.md",
+    "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/14. Using Blueprint Functions.md",
+    "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/13. Adding Ammo.md",
+    "+Attachments/Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/14. Using  Blueprint Functions",
     "+Attachments/Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/13. Adding Ammo/Showing Out Of Ammo.png",
     "+Attachments/Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/13. Adding Ammo/Fix For Out Of Ammo.png",
     "+Attachments/Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/13. Adding Ammo/Problem With Ammo.png",
@@ -154,13 +162,8 @@
     "+Attachments/Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/13. Adding Ammo/Subtract 1 From Ammo Every Time We Fire.png",
     "+Attachments/Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/13. Adding Ammo/Ammo Variable Selection Dialog.png",
     "+Attachments/Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/13. Adding Ammo/Setting Default Ammo Count.png",
-    "+Attachments/Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/13. Adding Ammo/Compile Blueprint Button.png",
-    "+Attachments/Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/13. Adding Ammo/Adding An Ammo Variable.png",
-    "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/13. Adding Ammo.md",
     "+Attachments/Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/13. Adding Ammo",
     "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/12. Adding Barrels.md",
-    "+Attachments/Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/12. Adding Barrels/Working Barrels.gif",
-    "+Attachments/Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/12. Adding Barrels/Fixed Collision Mesh For Barrels.png",
     "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/11. Creating A Prop Rack.md",
     "+Attachments/Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/12. Adding Barrels",
     "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/12. Fixing Barrels.md",
@@ -183,15 +186,12 @@
     "Vulkan/Let's Learn Vulkan/15. Push Constants.md",
     "+Attachments/Vulkan/Let's Learn Vulkan/16. Depth Buffers",
     "Vulkan/Let's Learn Vulkan/14. Dynamic UBOs.md",
-    "+Attachments/Vulkan/Let's Learn Vulkan/14. Dynamic UBOs",
     "Vulkan/Let's Learn Vulkan/13. Uniform Buffer Objects.md",
     "Vulkan/Let's Learn Vulkan/12. Index Buffers.md",
     "Vulkan/Let's Learn Vulkan/11. Staging Buffers.md",
     "Vulkan/Let's Learn Vulkan/10. Vertex Buffers.md",
     "Vulkan/Let's Learn Vulkan/9. Drawing.md",
     "Vulkan/Let's Learn Vulkan/8. Framebuffers and Command Buffers.md",
-    "Vulkan/Let's Learn Vulkan/6. Shaders.md",
-    "Vulkan/Let's Learn Vulkan/5. Swapchain.md",
-    "Vulkan/Let's Learn Vulkan/3. Validation.md"
+    "Vulkan/Let's Learn Vulkan/6. Shaders.md"
   ]
 }
