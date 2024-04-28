@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/15. Creating Functions From Scratch.md",
+                "file": "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/16. Pure Functions.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/15. Creating Functions From Scratch.md",
+                "file": "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/16. Pure Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/15. Creating Functions From Scratch.md",
+                "file": "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/16. Pure Functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/15. Creating Functions From Scratch.md"
+                "file": "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/16. Pure Functions.md"
               }
             }
           }
@@ -147,6 +147,12 @@
   },
   "active": "8297e3c66cf11eaf",
   "lastOpenFiles": [
+    "+Attachments/Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/16. Pure Functions/Pure Function For Checking If We Have Ammo.png",
+    "+Attachments/Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/16. Pure Functions/Checkbox To Mark Function As Pure.png",
+    "+Attachments/Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/16. Pure Functions/Impure Function With Execution Pins.png",
+    "+Attachments/Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/16. Pure Functions",
+    "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/15. Creating Functions From Scratch.md",
+    "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/16. Pure Functions.md",
     "+Attachments/Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/15. Creating Functions From Scratch/Implemented Example Logged Add Function.png",
     "+Attachments/Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/15. Creating Functions From Scratch/Adding Output To The Function.png",
     "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/Pasted image 20240428204409.png",
@@ -155,15 +161,11 @@
     "+Attachments/Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/15. Creating Functions From Scratch/Creating A Function From Scratch.png",
     "+Attachments/Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/15. Creating Functions From Scratch",
     "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/14. Using Blueprint Functions.md",
-    "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/15. Creating Functions From Scratch.md",
     "+Attachments/Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/14. Using  Blueprint Functions/Refactored Event Graph With Functions For Warehouse Wreckage.png",
     "+Attachments/Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/14. Using  Blueprint Functions/Renamed Spawn Projectile Function.png",
-    "+Attachments/Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/14. Using  Blueprint Functions/Option To Collapse Nodes Into Function.png",
-    "+Attachments/Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/14. Using  Blueprint Functions/Built-In Function Node Example.png",
     "Machine Learning/Deep Learning From Scratch/Chapter 1 - Foundations/1.2 - Derivatives.md",
     "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/13. Adding Ammo.md",
     "+Attachments/Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/14. Using  Blueprint Functions",
-    "+Attachments/Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/13. Adding Ammo/Showing Out Of Ammo.png",
     "+Attachments/Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/13. Adding Ammo",
     "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/12. Adding Barrels.md",
     "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/11. Creating A Prop Rack.md",
@@ -183,7 +185,6 @@
     "Vulkan/Let's Learn Vulkan/4. Surface.md",
     "Vulkan/Let's Learn Vulkan/2. The Window, the Instance, and the Device.md",
     "Vulkan/Let's Learn Vulkan/1. Setup.md",
-    "+Attachments/Vulkan/Let's Learn Vulkan/17. Textures Part 1",
     "Vulkan/Let's Learn Vulkan/16. Depth Buffers.md",
     "Vulkan/Let's Learn Vulkan/15. Push Constants.md",
     "Vulkan/Let's Learn Vulkan/14. Dynamic UBOs.md",
@@ -191,7 +192,6 @@
     "Vulkan/Let's Learn Vulkan/12. Index Buffers.md",
     "Vulkan/Let's Learn Vulkan/11. Staging Buffers.md",
     "Vulkan/Let's Learn Vulkan/10. Vertex Buffers.md",
-    "Vulkan/Let's Learn Vulkan/9. Drawing.md",
-    "Vulkan/Let's Learn Vulkan/8. Framebuffers and Command Buffers.md"
+    "Vulkan/Let's Learn Vulkan/9. Drawing.md"
   ]
 }
