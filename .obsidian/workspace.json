@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/11. Creating A Prop Rack.md",
+                "file": "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/12. Adding Barrels.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/11. Creating A Prop Rack.md",
+                "file": "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/12. Adding Barrels.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/11. Creating A Prop Rack.md",
+                "file": "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/12. Adding Barrels.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/11. Creating A Prop Rack.md"
+                "file": "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/12. Adding Barrels.md"
               }
             }
           }
@@ -147,20 +147,24 @@
   },
   "active": "27fc9ecff3cac489",
   "lastOpenFiles": [
-    "+Attachments/Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/11. Creating A Prop Rack/Hitting The Prop Rack With Balls.gif",
-    "+Attachments/Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/11. Creating A Prop Rack/Enabling Physics On The Prop Rack.png",
-    "+Attachments/Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/11. Creating A Prop Rack/After Adding A Second Prop Shelf.png",
-    "+Attachments/Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/11. Creating A Prop Rack/After Adding One Prop Shelf.png",
-    "+Attachments/Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/11. Creating A Prop Rack/Adding A Prop Rack For Warehouse Wreckage.png",
-    "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/10. Geometry Brushes.md",
+    "+Attachments/Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/12. Adding Barrels/Working Barrels.gif",
+    "+Attachments/Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/12. Adding Barrels/Fixed Collision Mesh For Barrels.png",
+    "+Attachments/Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/12. Adding Barrels/Adding 10DOP-Z Collision To Barrels.png",
+    "+Attachments/Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/12. Adding Barrels/Remove Collision Mesh Option For Barrel.png",
+    "+Attachments/Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/12. Adding Barrels/Shape Of Barrel Collision Mesh.png",
+    "+Attachments/Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/12. Adding Barrels/Enabling Player Collision View.png",
+    "+Attachments/Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/11. Creating A Prop Rack/Problem With Barrel Physics.gif",
+    "+Attachments/Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/12. Adding Barrels/Stacking Barrels For Warehouse Wreckage.png",
+    "+Attachments/Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/12. Adding Barrels/Enabling Physics On The Barrel Blueprint.png",
+    "+Attachments/Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/12. Adding Barrels/Creating A Barrel Blueprint Class Dialog Settings.png",
+    "+Attachments/Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/12. Adding Barrels/Converting A Barrel To Blueprint Class.PNG",
     "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/11. Creating A Prop Rack.md",
+    "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/12. Adding Barrels.md",
+    "+Attachments/Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/12. Adding Barrels",
+    "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/12. Fixing Barrels.md",
+    "+Attachments/Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/12. Fixing Barrels",
+    "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/10. Geometry Brushes.md",
     "+Attachments/Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/11. Creating A Prop Rack",
-    "+Attachments/Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/10. Geometry Brushes/Updating Startup Projects For Warehouse Wreckage.png",
-    "+Attachments/Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/10. Geometry Brushes/Location Of Project Settings Window.png",
-    "+Attachments/Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/10. Geometry Brushes/Windows In Warehouse Wreckage Scene.png",
-    "+Attachments/Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/10. Geometry Brushes/Adding A Subtractive Box Brush.png",
-    "+Attachments/Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/10. Geometry Brushes/Additive Wall Geometry Brush.png",
-    "+Attachments/Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/10. Geometry Brushes/Place Actors Panel With Geometry Tab Selected.png",
     "+Attachments/Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/10. Geometry Brushes",
     "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/9. Importing Assets.md",
     "+Attachments/Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/9. Importing Assets",
@@ -180,9 +184,7 @@
     "+Attachments/Vulkan/Let's Learn Vulkan/14. Dynamic UBOs",
     "Vulkan/Let's Learn Vulkan/13. Uniform Buffer Objects.md",
     "+Attachments/Vulkan/Let's Learn Vulkan/13. Uniform Buffer Objects/Rotating Quad With UBO.mp4",
-    "+Attachments/Vulkan/Let's Learn Vulkan/13. Uniform Buffer Objects",
     "Vulkan/Let's Learn Vulkan/12. Index Buffers.md",
-    "+Attachments/Vulkan/Let's Learn Vulkan/12. Index Buffers",
     "Vulkan/Let's Learn Vulkan/11. Staging Buffers.md",
     "Vulkan/Let's Learn Vulkan/10. Vertex Buffers.md",
     "Vulkan/Let's Learn Vulkan/9. Drawing.md",
@@ -190,8 +192,6 @@
     "Vulkan/Let's Learn Vulkan/6. Shaders.md",
     "Vulkan/Let's Learn Vulkan/5. Swapchain.md",
     "Vulkan/Let's Learn Vulkan/3. Validation.md",
-    "++TODO/vulkan/lets-learn-vulkan/_index.md",
-    "++TODO/vulkan/_index.md",
-    "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/1. Setup.md"
+    "++TODO/vulkan/lets-learn-vulkan/_index.md"
   ]
 }
