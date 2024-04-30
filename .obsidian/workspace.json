@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/18. Restarting Level.md",
+                "file": "Unreal/Learn Unreal/Project 2 - Obstacle Assault/1. Setup.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "startup",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/18. Restarting Level.md",
+                "file": "Unreal/Learn Unreal/Project 2 - Obstacle Assault/1. Setup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/18. Restarting Level.md",
+                "file": "Unreal/Learn Unreal/Project 2 - Obstacle Assault/1. Setup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/18. Restarting Level.md"
+                "file": "Unreal/Learn Unreal/Project 2 - Obstacle Assault/1. Setup.md"
               }
             }
           }
@@ -145,24 +145,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8297e3c66cf11eaf",
+  "active": "9acc9ab8b3d21215",
   "lastOpenFiles": [
+    "+Attachments/Unreal/Learn Unreal/Project 2 - Obstacle Assault/1. Setup/Drag And Drop Third Person Character.png",
+    "+Attachments/Unreal/Learn Unreal/Project 2 - Obstacle Assault/1. Setup/Adding Character Asset Pack To Obstacle Avoidance.png",
+    "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/10. Geometry Brushes.md",
+    "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/9. Importing Assets.md",
+    "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/8. Firing Forwards.md",
+    "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/7. Spawning.md",
+    "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/6. Blueprint Classes.md",
+    "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/5. Adding An Impulse.md",
+    "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/4. Object References.md",
+    "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/3. Physics Simulation.md",
+    "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/2. Level Blueprint.md",
+    "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/1. Setup.md",
+    "Unreal/Learn Unreal/Project 2 - Obstacle Assault/1. Setup.md",
+    "+Attachments/Unreal/Learn Unreal/Project 2 - Obstacle Assault/1. Setup/Save Current Level As.png",
+    "+Attachments/Unreal/Learn Unreal/Project 2 - Obstacle Assault/1. Setup/Switch Unreal Engine Version Context Menu.png",
+    "+Attachments/Unreal/Learn Unreal/Project 2 - Obstacle Assault/1. Setup/Dialog Settings For Obstacle Assault Project Creation.png",
+    "+Attachments/Unreal/Learn Unreal/Project 2 - Obstacle Assault/1. Setup/Button To Click To Make Unreal Learning Kit Project.png",
+    "+Attachments/Unreal/Learn Unreal/Project 2 - Obstacle Assault/1. Setup/Stylized Character Kit Store Page.png",
+    "+Attachments/Unreal/Learn Unreal/Project 2 - Obstacle Assault/1. Setup/Unreal Learning Kit Store Page.png",
+    "+Attachments/Unreal/Learn Unreal/Project 2 - Obstacle Assault/1. Setup",
+    "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/18. Restarting Level.md",
+    "+Attachments/Unreal/Learn Unreal/Project 2 - Obstacle Assault",
+    "Unreal/Learn Unreal/Project 2 - Obstacle Assault",
     "+Attachments/Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/18. Restarting Level/Warehouse Wreckage Completed.gif",
     "+Attachments/Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/18. Restarting Level/Opening A Level By Name.png",
     "+Attachments/Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/18. Restarting Level/Getting The Current Level Name.png",
-    "+Attachments/Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/18. Restarting Level/Adding Delay Node For Level Restart.png",
     "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/17. Member Functions.md",
-    "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/18. Restarting Level.md",
     "+Attachments/Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/18. Restarting Level",
-    "+Attachments/Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/17. Member Functions/Hooking Up The Launch Member Function.png",
-    "+Attachments/Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/17. Member Functions/Locating Launch Member Function.png",
-    "+Attachments/Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/17. Member Functions/Fixed Member Function For Launch.png",
-    "+Attachments/Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/17. Member Functions/Compiler Error On Creating Member Function.png",
-    "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/Pasted image 20240428210844.png",
-    "+Attachments/Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/17. Member Functions/How To Open The Full Blueprint Editor.png",
     "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/16. Pure Functions.md",
     "+Attachments/Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/17. Member Functions",
-    "+Attachments/Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/16. Pure Functions/Pure Function For Checking If We Have Ammo.png",
     "+Attachments/Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/16. Pure Functions",
     "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/15. Creating Functions From Scratch.md",
     "+Attachments/Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/15. Creating Functions From Scratch",
@@ -175,23 +189,9 @@
     "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/11. Creating A Prop Rack.md",
     "+Attachments/Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/12. Adding Barrels",
     "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/12. Fixing Barrels.md",
-    "+Attachments/Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/12. Fixing Barrels",
-    "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/10. Geometry Brushes.md",
-    "+Attachments/Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/11. Creating A Prop Rack",
-    "+Attachments/Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/10. Geometry Brushes",
-    "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/9. Importing Assets.md",
-    "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/8. Firing Forwards.md",
-    "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/7. Spawning.md",
     "Vulkan/Let's Learn Vulkan/17. Textures Part 1.md",
     "Vulkan/Let's Learn Vulkan/7. Graphics Pipeline.md",
     "Vulkan/Let's Learn Vulkan/4. Surface.md",
-    "Vulkan/Let's Learn Vulkan/2. The Window, the Instance, and the Device.md",
-    "Vulkan/Let's Learn Vulkan/1. Setup.md",
-    "Vulkan/Let's Learn Vulkan/16. Depth Buffers.md",
-    "Vulkan/Let's Learn Vulkan/15. Push Constants.md",
-    "Vulkan/Let's Learn Vulkan/14. Dynamic UBOs.md",
-    "Vulkan/Let's Learn Vulkan/13. Uniform Buffer Objects.md",
-    "Vulkan/Let's Learn Vulkan/12. Index Buffers.md",
-    "Vulkan/Let's Learn Vulkan/11. Staging Buffers.md"
+    "Vulkan/Let's Learn Vulkan/2. The Window, the Instance, and the Device.md"
   ]
 }
