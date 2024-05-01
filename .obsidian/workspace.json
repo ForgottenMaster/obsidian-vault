@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 2 - Obstacle Assault/1. Setup.md",
+                "file": "Unreal/Learn Unreal/Project 2 - Obstacle Assault/2. Setting Up The Character.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 2 - Obstacle Assault/1. Setup.md",
+                "file": "Unreal/Learn Unreal/Project 2 - Obstacle Assault/2. Setting Up The Character.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 2 - Obstacle Assault/1. Setup.md",
+                "file": "Unreal/Learn Unreal/Project 2 - Obstacle Assault/2. Setting Up The Character.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 2 - Obstacle Assault/1. Setup.md"
+                "file": "Unreal/Learn Unreal/Project 2 - Obstacle Assault/2. Setting Up The Character.md"
               }
             }
           }
@@ -145,8 +145,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9acc9ab8b3d21215",
+  "active": "8297e3c66cf11eaf",
   "lastOpenFiles": [
+    "+Attachments/Unreal/Learn Unreal/Project 2 - Obstacle Assault/2. Setting Up The Character/Character Movement.gif",
+    "+Attachments/Unreal/Learn Unreal/Project 2 - Obstacle Assault/2. Setting Up The Character/Selecting A New Skeletal Mesh For Obstacle Assault Character.png",
+    "+Attachments/Unreal/Learn Unreal/Project 2 - Obstacle Assault/2. Setting Up The Character/Child Blueprint Dialog For Obstacle Assault Character.png",
+    "+Attachments/Unreal/Learn Unreal/Project 2 - Obstacle Assault/2. Setting Up The Character/Context Menu Option For Child Blueprint Class.png",
+    "+Attachments/Unreal/Learn Unreal/Project 2 - Obstacle Assault/2. Setting Up The Character/Setting Auto Possess Pawn For Obstacle Assault.png",
+    "+Attachments/Unreal/Learn Unreal/Project 2 - Obstacle Assault/2. Setting Up The Character/Remove Player Spawner.png",
+    "Unreal/Learn Unreal/Project 2 - Obstacle Assault/2. Setting Up The Character.md",
+    "+Attachments/Unreal/Learn Unreal/Project 2 - Obstacle Assault/2. Setting Up The Character/Drag Drop Character Into Obstacle Assault.png",
+    "+Attachments/Unreal/Learn Unreal/Project 2 - Obstacle Assault/2. Setting Up The Character/Fixed ThirdPersonCharacter Graph.png",
+    "+Attachments/Unreal/Learn Unreal/Project 2 - Obstacle Assault/2. Setting Up The Character/Warnings In ThirdPersonCharacter.png",
+    "Unreal/Learn Unreal/Project 2 - Obstacle Assault/1. Setup.md",
+    "+Attachments/Unreal/Learn Unreal/Project 2 - Obstacle Assault/2. Setting Up The Character",
     "+Attachments/Unreal/Learn Unreal/Project 2 - Obstacle Assault/1. Setup/Drag And Drop Third Person Character.png",
     "+Attachments/Unreal/Learn Unreal/Project 2 - Obstacle Assault/1. Setup/Adding Character Asset Pack To Obstacle Avoidance.png",
     "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/10. Geometry Brushes.md",
@@ -159,20 +171,10 @@
     "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/3. Physics Simulation.md",
     "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/2. Level Blueprint.md",
     "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/1. Setup.md",
-    "Unreal/Learn Unreal/Project 2 - Obstacle Assault/1. Setup.md",
-    "+Attachments/Unreal/Learn Unreal/Project 2 - Obstacle Assault/1. Setup/Save Current Level As.png",
-    "+Attachments/Unreal/Learn Unreal/Project 2 - Obstacle Assault/1. Setup/Switch Unreal Engine Version Context Menu.png",
-    "+Attachments/Unreal/Learn Unreal/Project 2 - Obstacle Assault/1. Setup/Dialog Settings For Obstacle Assault Project Creation.png",
-    "+Attachments/Unreal/Learn Unreal/Project 2 - Obstacle Assault/1. Setup/Button To Click To Make Unreal Learning Kit Project.png",
-    "+Attachments/Unreal/Learn Unreal/Project 2 - Obstacle Assault/1. Setup/Stylized Character Kit Store Page.png",
-    "+Attachments/Unreal/Learn Unreal/Project 2 - Obstacle Assault/1. Setup/Unreal Learning Kit Store Page.png",
     "+Attachments/Unreal/Learn Unreal/Project 2 - Obstacle Assault/1. Setup",
     "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/18. Restarting Level.md",
     "+Attachments/Unreal/Learn Unreal/Project 2 - Obstacle Assault",
     "Unreal/Learn Unreal/Project 2 - Obstacle Assault",
-    "+Attachments/Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/18. Restarting Level/Warehouse Wreckage Completed.gif",
-    "+Attachments/Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/18. Restarting Level/Opening A Level By Name.png",
-    "+Attachments/Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/18. Restarting Level/Getting The Current Level Name.png",
     "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/17. Member Functions.md",
     "+Attachments/Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/18. Restarting Level",
     "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/16. Pure Functions.md",
@@ -187,11 +189,9 @@
     "+Attachments/Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/13. Adding Ammo",
     "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/12. Adding Barrels.md",
     "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/11. Creating A Prop Rack.md",
-    "+Attachments/Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/12. Adding Barrels",
     "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/12. Fixing Barrels.md",
     "Vulkan/Let's Learn Vulkan/17. Textures Part 1.md",
     "Vulkan/Let's Learn Vulkan/7. Graphics Pipeline.md",
-    "Vulkan/Let's Learn Vulkan/4. Surface.md",
-    "Vulkan/Let's Learn Vulkan/2. The Window, the Instance, and the Device.md"
+    "Vulkan/Let's Learn Vulkan/4. Surface.md"
   ]
 }
