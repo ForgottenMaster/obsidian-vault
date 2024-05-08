@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 2 - Obstacle Assault/3. Compiling C++.md",
+                "file": "Unreal/Learn Unreal/Project 2 - Obstacle Assault/4. Examples Of Properties.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 2 - Obstacle Assault/3. Compiling C++.md",
+                "file": "Unreal/Learn Unreal/Project 2 - Obstacle Assault/4. Examples Of Properties.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 2 - Obstacle Assault/3. Compiling C++.md",
+                "file": "Unreal/Learn Unreal/Project 2 - Obstacle Assault/4. Examples Of Properties.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 2 - Obstacle Assault/3. Compiling C++.md"
+                "file": "Unreal/Learn Unreal/Project 2 - Obstacle Assault/4. Examples Of Properties.md"
               }
             }
           }
@@ -147,6 +147,15 @@
   },
   "active": "9acc9ab8b3d21215",
   "lastOpenFiles": [
+    "+Attachments/Unreal/Learn Unreal/Project 2 - Obstacle Assault/4. Examples Of Properties/Examples Of Multiple Properties.png",
+    "+Attachments/Unreal/Learn Unreal/Project 2 - Obstacle Assault/4. Examples Of Properties/Example Of Property.png",
+    "+Attachments/Unreal/Learn Unreal/Project 2 - Obstacle Assault/4. Examples Of Properties/Live Coding Recompile Button.png",
+    "+Attachments/Unreal/Learn Unreal/Setup/Creating.png",
+    "Unreal/Learn Unreal/Project 2 - Obstacle Assault/4. Examples Of Properties.md",
+    "+Attachments/Unreal/Learn Unreal/Project 2 - Obstacle Assault/4. Examples Of Properties",
+    "Unreal/Learn Unreal/Project 2 - Obstacle Assault/1. Setup.md",
+    "+Attachments/Unreal/Learn Unreal/Untitled",
+    "Unreal/Learn Unreal/Project 2 - Obstacle Assault/3. Compiling C++.md",
     "+Attachments/Unreal/Learn Unreal/Project 2 - Obstacle Assault/3. Compiling C++/Installing Additional Components For Unreal Engine.png",
     "+Attachments/Unreal/Learn Unreal/Project 2 - Obstacle Assault/3. Compiling C++/Installing Additional Components For Unreal.png",
     "+Attachments/Unreal/Learn Unreal/Project 2 - Obstacle Assault/3. Compiling C++/Opening Visual Studio Project.png",
@@ -154,15 +163,9 @@
     "+Attachments/Unreal/Learn Unreal/Project 2 - Obstacle Assault/3. Compiling C++/Setting VS2022 In Unreal Engine.png",
     "+Attachments/Unreal/Learn Unreal/Project 2 - Obstacle Assault/3. Compiling C++/Editor Preferences Option In Edit Menu.png",
     "+Attachments/Unreal/Learn Unreal/Project 2 - Obstacle Assault/3. Compiling C++/Dialog For Naming MovingPlatform Actor.png",
-    "+Attachments/Unreal/Learn Unreal/Project 2 - Obstacle Assault/3. Compiling C++/Selecting An Actor Parent Class.png",
-    "+Attachments/Unreal/Learn Unreal/Project 2 - Obstacle Assault/3. Compiling C++/Option To Create A C++ Class.png",
     "+Attachments/Unreal/Learn Unreal/Project 2 - Obstacle Assault/3. Installing C++ Dependencies/Untitled",
-    "+Attachments/Unreal/Learn Unreal/Project 2 - Obstacle Assault/3. Compiling C++/Selection Of Workload For Unreal Engine.png",
-    "+Attachments/Unreal/Learn Unreal/Project 2 - Obstacle Assault/3. Compiling C++/Button To Click To Install Visual Studio.png",
     "Unreal/Learn Unreal/Project 2 - Obstacle Assault/2. Setting Up The Character.md",
-    "Unreal/Learn Unreal/Project 2 - Obstacle Assault/3. Compiling C++.md",
     "+Attachments/Unreal/Learn Unreal/Project 2 - Obstacle Assault/3. Compiling C++",
-    "Unreal/Learn Unreal/Project 2 - Obstacle Assault/1. Setup.md",
     "+Attachments/Unreal/Learn Unreal/Project 2 - Obstacle Assault/2. Setting Up The Character",
     "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/10. Geometry Brushes.md",
     "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/9. Importing Assets.md",
@@ -182,16 +185,13 @@
     "+Attachments/Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/18. Restarting Level",
     "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/16. Pure Functions.md",
     "+Attachments/Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/17. Member Functions",
-    "+Attachments/Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/16. Pure Functions",
     "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/15. Creating Functions From Scratch.md",
-    "+Attachments/Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/15. Creating Functions From Scratch",
     "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/14. Using Blueprint Functions.md",
     "Machine Learning/Deep Learning From Scratch/Chapter 1 - Foundations/1.2 - Derivatives.md",
     "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/13. Adding Ammo.md",
     "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/12. Adding Barrels.md",
     "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/11. Creating A Prop Rack.md",
     "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/12. Fixing Barrels.md",
-    "Vulkan/Let's Learn Vulkan/17. Textures Part 1.md",
-    "Vulkan/Let's Learn Vulkan/7. Graphics Pipeline.md"
+    "Vulkan/Let's Learn Vulkan/17. Textures Part 1.md"
   ]
 }
