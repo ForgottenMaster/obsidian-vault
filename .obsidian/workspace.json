@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "aacb57852216bb7a",
+        "id": "7bff2d1ebd6e8a52",
         "type": "tabs",
         "children": [
           {
-            "id": "8297e3c66cf11eaf",
+            "id": "bde567bc4b29a363",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 2 - Obstacle Assault/7. Going Back And Forth.md",
+                "file": "Unreal/Learn Unreal/Project 2 - Obstacle Assault/8. Moving Platform Child Blueprint Classes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 2 - Obstacle Assault/7. Going Back And Forth.md",
+                "file": "Unreal/Learn Unreal/Project 2 - Obstacle Assault/8. Moving Platform Child Blueprint Classes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 2 - Obstacle Assault/7. Going Back And Forth.md",
+                "file": "Unreal/Learn Unreal/Project 2 - Obstacle Assault/8. Moving Platform Child Blueprint Classes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 2 - Obstacle Assault/7. Going Back And Forth.md"
+                "file": "Unreal/Learn Unreal/Project 2 - Obstacle Assault/8. Moving Platform Child Blueprint Classes.md"
               }
             }
           }
@@ -145,11 +145,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8297e3c66cf11eaf",
+  "active": "bde567bc4b29a363",
   "lastOpenFiles": [
+    "+Attachments/Unreal/Learn Unreal/Project 2 - Obstacle Assault/8. Moving Platform Child Blueprint Classes/Moving Pillars Moving Up And Down.gif",
+    "+Attachments/Unreal/Learn Unreal/Project 2 - Obstacle Assault/8. Moving Platform Child Blueprint Classes/Setup Of Movable Pillar.png",
+    "Unreal/Learn Unreal/Project 2 - Obstacle Assault/8. Moving Platform Child Blueprint Classes.md",
+    "+Attachments/Unreal/Learn Unreal/Project 2 - Obstacle Assault/8. Moving Platform Child Blueprint Classes/Filling In The Dialog For Moving Pillar Blueprint Class.png",
+    "+Attachments/Unreal/Learn Unreal/Project 2 - Obstacle Assault/8. Moving Platform Child Blueprint Classes/Creating Child Blueprint Class From Moving Platform.png",
+    "Unreal/Learn Unreal/Project 2 - Obstacle Assault/7. Going Back And Forth.md",
+    "+Attachments/Unreal/Learn Unreal/Project 2 - Obstacle Assault/8. Moving Platform Child Blueprint Classes",
     "+Attachments/Unreal/Learn Unreal/Project 2 - Obstacle Assault/7. Going  Back And Forth/Platform Moving Back And Forth.gif",
     "Unreal/Learn Unreal/Project 2 - Obstacle Assault/6. Updating With Tick.md",
-    "Unreal/Learn Unreal/Project 2 - Obstacle Assault/7. Going Back And Forth.md",
     "+Attachments/Unreal/Learn Unreal/Project 2 - Obstacle Assault/7. Going  Back And Forth",
     "+Attachments/Unreal/Learn Unreal/Project 2 - Obstacle Assault/6. Updating With Tick/Moving Platform.gif",
     "+Attachments/Unreal/Learn Unreal/Project 2 - Obstacle Assault/6. Updating With Tick/Example Moving  Platform Setup.png",
@@ -161,10 +167,6 @@
     "+Attachments/Unreal/Learn Unreal/Project 2 - Obstacle Assault/5. Setting Position At Runtime/Example Setup Of Target Position On Moving Platform.png",
     "Unreal/Learn Unreal/Project 2 - Obstacle Assault/4. Examples Of Properties.md",
     "+Attachments/Unreal/Learn Unreal/Project 2 - Obstacle Assault/5. Setting Position At Runtime",
-    "+Attachments/Unreal/Learn Unreal/Project 2 - Obstacle Assault/4. Examples Of Properties/Examples Of Multiple Properties.png",
-    "+Attachments/Unreal/Learn Unreal/Project 2 - Obstacle Assault/4. Examples Of Properties/Example Of Property.png",
-    "+Attachments/Unreal/Learn Unreal/Project 2 - Obstacle Assault/4. Examples Of Properties/Live Coding Recompile Button.png",
-    "+Attachments/Unreal/Learn Unreal/Setup/Creating.png",
     "+Attachments/Unreal/Learn Unreal/Project 2 - Obstacle Assault/4. Examples Of Properties",
     "Unreal/Learn Unreal/Project 2 - Obstacle Assault/1. Setup.md",
     "+Attachments/Unreal/Learn Unreal/Untitled",
@@ -185,13 +187,11 @@
     "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/1. Setup.md",
     "+Attachments/Unreal/Learn Unreal/Project 2 - Obstacle Assault/1. Setup",
     "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/18. Restarting Level.md",
-    "+Attachments/Unreal/Learn Unreal/Project 2 - Obstacle Assault",
     "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/17. Member Functions.md",
     "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/16. Pure Functions.md",
     "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/15. Creating Functions From Scratch.md",
     "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/14. Using Blueprint Functions.md",
     "Machine Learning/Deep Learning From Scratch/Chapter 1 - Foundations/1.2 - Derivatives.md",
-    "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/13. Adding Ammo.md",
-    "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/12. Adding Barrels.md"
+    "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/13. Adding Ammo.md"
   ]
 }
