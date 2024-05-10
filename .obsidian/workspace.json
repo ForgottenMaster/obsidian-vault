@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 2 - Obstacle Assault/10. Game Mode Class.md",
+                "file": "Unreal/Learn Unreal/Project 2 - Obstacle Assault/11. Logging To Console.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 2 - Obstacle Assault/10. Game Mode Class.md",
+                "file": "Unreal/Learn Unreal/Project 2 - Obstacle Assault/11. Logging To Console.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 2 - Obstacle Assault/10. Game Mode Class.md",
+                "file": "Unreal/Learn Unreal/Project 2 - Obstacle Assault/11. Logging To Console.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 2 - Obstacle Assault/10. Game Mode Class.md"
+                "file": "Unreal/Learn Unreal/Project 2 - Obstacle Assault/11. Logging To Console.md"
               }
             }
           }
@@ -147,9 +147,13 @@
   },
   "active": "1eab2abbe06b74b6",
   "lastOpenFiles": [
+    "+Attachments/Unreal/Learn Unreal/Project 2 - Obstacle Assault/11. Logging To Console/Verbosity Levels For Logging In Unreal.png",
+    "+Attachments/Unreal/Learn Unreal/Project 2 - Obstacle Assault/11. Logging To Console/Example Logging To Console.png",
+    "Unreal/Learn Unreal/Project 2 - Obstacle Assault/10. Game Mode Class.md",
+    "Unreal/Learn Unreal/Project 2 - Obstacle Assault/11. Logging To Console.md",
+    "+Attachments/Unreal/Learn Unreal/Project 2 - Obstacle Assault/11. Logging To Console",
     "+Attachments/Unreal/Learn Unreal/Project 2 - Obstacle Assault/10. Game Mode Class/Play From Here Option.png",
     "+Attachments/Unreal/Learn Unreal/Project 2 - Obstacle Assault/10. Game Mode Class/Adding Player Start Into World.png",
-    "Unreal/Learn Unreal/Project 2 - Obstacle Assault/10. Game Mode Class.md",
     "+Attachments/Unreal/Learn Unreal/Project 2 - Obstacle Assault/10. Game Mode Class/Place Actors Panel In Window Menu.png",
     "+Attachments/Unreal/Learn Unreal/Project 2 - Obstacle Assault/10. Game Mode Class/Setting The Default Pawn To Spawn.png",
     "+Attachments/Unreal/Learn Unreal/Project 2 - Obstacle Assault/10. Game Mode Class/Dialog For Creating The GameMode.png",
@@ -159,8 +163,6 @@
     "Unreal/Learn Unreal/Project 2 - Obstacle Assault/9. Pusher Cube.md",
     "+Attachments/Unreal/Learn Unreal/Project 2 - Obstacle Assault/9. Pusher Cube/Fixed Collision Between Pusher And Character.gif",
     "+Attachments/Unreal/Learn Unreal/Project 2 - Obstacle Assault/9. Pusher Cube/Fix For Character Controller Collision Issue.png",
-    "+Attachments/Unreal/Learn Unreal/Project 2 - Obstacle Assault/9. Pusher Cube/Issue With Collision.gif",
-    "+Attachments/Unreal/Learn Unreal/Project 2 - Obstacle Assault/9. Pusher Cube/Pusher Cube In Action.gif",
     "Unreal/Learn Unreal/Project 2 - Obstacle Assault/8. Moving Platform Child Blueprint Classes.md",
     "+Attachments/Unreal/Learn Unreal/Project 2 - Obstacle Assault/9. Pusher Cube",
     "Unreal/Learn Unreal/Project 2 - Obstacle Assault/7. Going Back And Forth.md",
@@ -177,7 +179,6 @@
     "Unreal/Learn Unreal/Project 2 - Obstacle Assault/3. Compiling C++.md",
     "+Attachments/Unreal/Learn Unreal/Project 2 - Obstacle Assault/3. Installing C++ Dependencies/Untitled",
     "Unreal/Learn Unreal/Project 2 - Obstacle Assault/2. Setting Up The Character.md",
-    "+Attachments/Unreal/Learn Unreal/Project 2 - Obstacle Assault/3. Compiling C++",
     "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/10. Geometry Brushes.md",
     "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/9. Importing Assets.md",
     "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/8. Firing Forwards.md",
@@ -191,7 +192,6 @@
     "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/18. Restarting Level.md",
     "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/17. Member Functions.md",
     "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/16. Pure Functions.md",
-    "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/15. Creating Functions From Scratch.md",
-    "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/14. Using Blueprint Functions.md"
+    "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/15. Creating Functions From Scratch.md"
   ]
 }
