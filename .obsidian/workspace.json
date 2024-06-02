@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 3 - Crypt Raider/3. Light Types.md",
+                "file": "Unreal/Learn Unreal/Project 3 - Crypt Raider/4. Lumen & Light Bleed.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 3 - Crypt Raider/3. Light Types.md",
+                "file": "Unreal/Learn Unreal/Project 3 - Crypt Raider/4. Lumen & Light Bleed.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 3 - Crypt Raider/3. Light Types.md",
+                "file": "Unreal/Learn Unreal/Project 3 - Crypt Raider/4. Lumen & Light Bleed.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 3 - Crypt Raider/3. Light Types.md"
+                "file": "Unreal/Learn Unreal/Project 3 - Crypt Raider/4. Lumen & Light Bleed.md"
               }
             }
           }
@@ -133,7 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 296.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,20 +147,22 @@
   },
   "active": "1eab2abbe06b74b6",
   "lastOpenFiles": [
+    "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/4. Lumen & Light Bleed/Floor Panels Above Ceiling To Block Light Bleed.png",
+    "Unreal/Learn Unreal/Project 3 - Crypt Raider/4. Lumen & Light Bleed.md",
+    "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/4. Lumen & Light Bleed/Light Bleed Illuminating Interior Space.png",
+    "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/4. Lumen & Light Bleed/Fixed Dungeon Wall Lighting.png",
+    "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/4. Lumen & Light Bleed/Wire To Disconnect In Shader Graph.png",
+    "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/4. Lumen & Light Bleed/Find Parent Option On Asset.png",
+    "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/4. Lumen & Light Bleed/Go To Material Instance In Content Browser.png",
+    "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/4. Lumen & Light Bleed/Issue With Unsupported Feature In Lumen.png",
+    "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/4. Lumen & Light Bleed/Movable Setting For Lights.png",
+    "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/4. Lumen & Light Bleed",
+    "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/Untitled.md",
+    "Unreal/Learn Unreal/Project 3 - Crypt Raider/3. Light Types.md",
     "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/3. Light Types/Refresh Material Button For Sky Sphere.png",
     "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/3. Light Types/Linked Sky Sphere To Directional Light.png",
-    "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/3. Light Types/Recapture Sky Light Button.png",
-    "Unreal/Learn Unreal/Project 3 - Crypt Raider/3. Light Types.md",
-    "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/3. Light Types/Finding The Sky Sphere Asset.png",
-    "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/3. Light Types/Demo Of Directional Light.png",
-    "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/3. Light Types/Demo Of Rect Light.png",
-    "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/3. Light Types/Demo Of Spot Light.png",
-    "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/3. Light Types/Demo Of Point Light.png",
-    "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/3. Light Types/Light Types In Unreal.png",
     "Unreal/Learn Unreal/Project 3 - Crypt Raider/2. Level Building.md",
     "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/3. Light Types",
-    "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/2. Level Building/Flythrough.gif",
-    "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/2. Level Building/Show Or Hide Toggle Button.png",
     "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/2. Level Building",
     "Unreal/Learn Unreal/Project 3 - Crypt Raider/1. Setting Up.md",
     "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/10. Geometry Brushes.md",
@@ -180,7 +182,6 @@
     "+Attachments/Unreal/Learn Unreal/Project 2 - Obstacle Assault/12. A Rotating Platform",
     "Unreal/Learn Unreal/Project 2 - Obstacle Assault/10. Game Mode Class.md",
     "+Attachments/Unreal/Learn Unreal/Project 2 - Obstacle Assault/11. Logging To Console",
-    "+Attachments/Unreal/Learn Unreal/Project 2 - Obstacle Assault/10. Game Mode Class",
     "Unreal/Learn Unreal/Project 2 - Obstacle Assault/9. Pusher Cube.md",
     "Unreal/Learn Unreal/Project 2 - Obstacle Assault/8. Moving Platform Child Blueprint Classes.md",
     "Unreal/Learn Unreal/Project 2 - Obstacle Assault/7. Going Back And Forth.md",
@@ -190,8 +191,6 @@
     "Unreal/Learn Unreal/Project 2 - Obstacle Assault/3. Compiling C++.md",
     "Unreal/Learn Unreal/Project 2 - Obstacle Assault/2. Setting Up The Character.md",
     "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/8. Firing Forwards.md",
-    "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/7. Spawning.md",
-    "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/6. Blueprint Classes.md",
-    "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/5. Adding An Impulse.md"
+    "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/7. Spawning.md"
   ]
 }
