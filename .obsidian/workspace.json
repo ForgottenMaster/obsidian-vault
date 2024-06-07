@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 3 - Crypt Raider/6. Setting Up Player Pawn.md",
+                "file": "Unreal/Learn Unreal/Project 3 - Crypt Raider/7. Creating A Mover Actor Component.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "069537dc88dc2f3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unreal/Learn Unreal/Project 3 - Crypt Raider/7. Creating A Mover Actor Component.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d6e9f0babb7c072a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unreal/Learn Unreal/Project 3 - Crypt Raider/7. Creating A Mover Actor Component.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 3 - Crypt Raider/6. Setting Up Player Pawn.md",
+                "file": "Unreal/Learn Unreal/Project 3 - Crypt Raider/7. Creating A Mover Actor Component.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 3 - Crypt Raider/6. Setting Up Player Pawn.md",
+                "file": "Unreal/Learn Unreal/Project 3 - Crypt Raider/7. Creating A Mover Actor Component.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 3 - Crypt Raider/6. Setting Up Player Pawn.md"
+                "file": "Unreal/Learn Unreal/Project 3 - Crypt Raider/7. Creating A Mover Actor Component.md"
               }
             }
           }
@@ -145,21 +170,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1eab2abbe06b74b6",
+  "active": "d6e9f0babb7c072a",
   "lastOpenFiles": [
+    "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/7. Creating A Mover Actor Component/Showing Mover Is In The List Of Components.png",
+    "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/7. Creating A Mover Actor Component/Dialog For New Actor Component.png",
+    "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/7. Creating A Mover Actor Component/Selecting A Parent Class For Mover Component.png",
+    "Unreal/Learn Unreal/Project 3 - Crypt Raider/6. Setting Up Player Pawn.md",
+    "Unreal/Learn Unreal/Project 3 - Crypt Raider/7. Creating A Mover Actor Component.md",
+    "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/7. Creating A Mover Actor Component/Adding New C++ Component For Mover.png",
+    "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/7. Creating A Mover Actor Component",
+    "Unreal/Learn Unreal/Project 2 - Obstacle Assault/3. Compiling C++.md",
+    "Unreal/Learn Unreal/Project 2 - Obstacle Assault/4. Examples Of Properties.md",
     "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/6. Setting Up Player Pawn/Fixed Player Pawn.gif",
     "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/6. Setting Up Player Pawn/Creating A New Crypt Raider Game Mode.png",
-    "Unreal/Learn Unreal/Project 3 - Crypt Raider/6. Setting Up Player Pawn.md",
     "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/6. Setting Up Player Pawn/Setting Default Pawn Class In Game Mode.png",
     "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/6. Setting Up Player Pawn/Showing First Person Pawn With Arms.png",
     "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/6. Setting Up Player Pawn/Deriving The First Person Player Pawn For Crypt Raider.png",
     "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/6. Setting Up Player Pawn/Player Hand Visible.gif",
     "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/6. Setting Up Player Pawn/Setting Collision On Floor To Have Some Thickness.png",
-    "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/6. Setting Up Player Pawn/Adding Box Collision To Mesh.png",
-    "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/6. Setting Up Player Pawn/Place Player Start From Panel.png",
     "Unreal/Learn Unreal/Project 3 - Crypt Raider/5. Interior Lighting.md",
     "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/6. Setting Up Player Pawn",
-    "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/5. Interior Lighting/Interior Lighting Flythrough.gif",
     "Unreal/Learn Unreal/Project 3 - Crypt Raider/4. Lumen & Light Bleed.md",
     "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/5. Interior Lighting",
     "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/4. Lumen & Light Bleed",
@@ -181,16 +211,12 @@
     "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider",
     "+Attachments/Unreal/Learn Unreal/Project 2 - Obstacle Assault/13. Putting It All Together",
     "Unreal/Learn Unreal/Project 2 - Obstacle Assault/12. A Rotating Platform.md",
-    "+Attachments/Unreal/Learn Unreal/Project 2 - Obstacle Assault/13. Putting It All Together",
     "Unreal/Learn Unreal/Project 2 - Obstacle Assault/11. Logging To Console.md",
     "Unreal/Learn Unreal/Project 2 - Obstacle Assault/10. Game Mode Class.md",
     "Unreal/Learn Unreal/Project 2 - Obstacle Assault/9. Pusher Cube.md",
     "Unreal/Learn Unreal/Project 2 - Obstacle Assault/8. Moving Platform Child Blueprint Classes.md",
     "Unreal/Learn Unreal/Project 2 - Obstacle Assault/7. Going Back And Forth.md",
     "Unreal/Learn Unreal/Project 2 - Obstacle Assault/6. Updating With Tick.md",
-    "Unreal/Learn Unreal/Project 2 - Obstacle Assault/5. Setting Position At Runtime.md",
-    "Unreal/Learn Unreal/Project 2 - Obstacle Assault/4. Examples Of Properties.md",
-    "Unreal/Learn Unreal/Project 2 - Obstacle Assault/3. Compiling C++.md",
-    "Unreal/Learn Unreal/Project 2 - Obstacle Assault/2. Setting Up The Character.md"
+    "Unreal/Learn Unreal/Project 2 - Obstacle Assault/5. Setting Position At Runtime.md"
   ]
 }
