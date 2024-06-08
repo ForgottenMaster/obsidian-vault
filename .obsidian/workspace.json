@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 3 - Crypt Raider/8. Accessing Actor Properties.md",
+                "file": "Unreal/Learn Unreal/Project 3 - Crypt Raider/9. Adding Movement Logic To Mover Component.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 3 - Crypt Raider/8. Accessing Actor Properties.md",
+                "file": "Unreal/Learn Unreal/Project 3 - Crypt Raider/9. Adding Movement Logic To Mover Component.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 3 - Crypt Raider/8. Accessing Actor Properties.md",
+                "file": "Unreal/Learn Unreal/Project 3 - Crypt Raider/9. Adding Movement Logic To Mover Component.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 3 - Crypt Raider/8. Accessing Actor Properties.md"
+                "file": "Unreal/Learn Unreal/Project 3 - Crypt Raider/9. Adding Movement Logic To Mover Component.md"
               }
             }
           }
@@ -145,12 +145,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9acc9ab8b3d21215",
+  "active": "caed613bfd556ecb",
   "lastOpenFiles": [
+    "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/9. Adding Movement Logic To Mover Component/Secret Doorway.gif",
+    "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/9. Adding Movement Logic To Mover Component/Setting Wall To Be Movable.png",
+    "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/9. Adding Movement Logic To Mover Component/Mover Component Settings.png",
+    "Unreal/Learn Unreal/Project 3 - Crypt Raider/8. Accessing Actor Properties.md",
+    "Unreal/Learn Unreal/Project 3 - Crypt Raider/9. Adding Movement Logic To Mover Component.md",
+    "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/9. Adding Movement Logic To Mover Component",
     "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/8. Accessing Actor Properties/Show That The Correct Info Is Logged.png",
     "Unreal/Learn Unreal/Project 2 - Obstacle Assault/11. Logging To Console.md",
     "Unreal/Learn Unreal/Project 3 - Crypt Raider/7. Creating A Mover Actor Component.md",
-    "Unreal/Learn Unreal/Project 3 - Crypt Raider/8. Accessing Actor Properties.md",
     "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/8. Accessing Actor Properties",
     "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/7. Creating A Mover Actor Component/Showing Mover Is In The List Of Components.png",
     "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/7. Creating A Mover Actor Component/Dialog For New Actor Component.png",
@@ -163,9 +168,6 @@
     "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/6. Setting Up Player Pawn/Fixed Player Pawn.gif",
     "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/6. Setting Up Player Pawn/Creating A New Crypt Raider Game Mode.png",
     "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/6. Setting Up Player Pawn/Setting Default Pawn Class In Game Mode.png",
-    "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/6. Setting Up Player Pawn/Showing First Person Pawn With Arms.png",
-    "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/6. Setting Up Player Pawn/Deriving The First Person Player Pawn For Crypt Raider.png",
-    "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/6. Setting Up Player Pawn/Player Hand Visible.gif",
     "Unreal/Learn Unreal/Project 3 - Crypt Raider/5. Interior Lighting.md",
     "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/6. Setting Up Player Pawn",
     "Unreal/Learn Unreal/Project 3 - Crypt Raider/4. Lumen & Light Bleed.md",
@@ -186,12 +188,10 @@
     "Unreal/Learn Unreal/Project 2 - Obstacle Assault/13. Putting It All Together.md",
     "Unreal/Learn Unreal/Project 3 - Crypt Raider",
     "Unreal/Learn Unreal/Project 3 - Crypt Raider.md",
-    "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider",
     "Unreal/Learn Unreal/Project 2 - Obstacle Assault/12. A Rotating Platform.md",
     "Unreal/Learn Unreal/Project 2 - Obstacle Assault/10. Game Mode Class.md",
     "Unreal/Learn Unreal/Project 2 - Obstacle Assault/9. Pusher Cube.md",
     "Unreal/Learn Unreal/Project 2 - Obstacle Assault/8. Moving Platform Child Blueprint Classes.md",
-    "Unreal/Learn Unreal/Project 2 - Obstacle Assault/7. Going Back And Forth.md",
-    "Unreal/Learn Unreal/Project 2 - Obstacle Assault/6. Updating With Tick.md"
+    "Unreal/Learn Unreal/Project 2 - Obstacle Assault/7. Going Back And Forth.md"
   ]
 }
