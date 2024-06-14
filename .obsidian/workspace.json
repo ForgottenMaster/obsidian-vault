@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 3 - Crypt Raider/11. Adding A Trace Channel.md",
+                "file": "Unreal/Learn Unreal/Project 3 - Crypt Raider/12. Explaining UWorld.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 3 - Crypt Raider/11. Adding A Trace Channel.md",
+                "file": "Unreal/Learn Unreal/Project 3 - Crypt Raider/12. Explaining UWorld.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 3 - Crypt Raider/11. Adding A Trace Channel.md",
+                "file": "Unreal/Learn Unreal/Project 3 - Crypt Raider/12. Explaining UWorld.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 3 - Crypt Raider/11. Adding A Trace Channel.md"
+                "file": "Unreal/Learn Unreal/Project 3 - Crypt Raider/12. Explaining UWorld.md"
               }
             }
           }
@@ -158,23 +158,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5a2f9878a911c746",
+  "active": "9acc9ab8b3d21215",
   "lastOpenFiles": [
+    "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/12. Explaining  UWorld/Testing Printing Out World Time.png",
+    "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/12. Explaining  UWorld/How UWorld And ULevel Compose.png",
+    "Unreal/Learn Unreal/Project 3 - Crypt Raider/11. Adding A Trace Channel.md",
+    "Unreal/Learn Unreal/Project 3 - Crypt Raider/12. Explaining UWorld.md",
+    "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/12. Explaining  UWorld",
     "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/11. Adding A Trace Channel/Turning  Grabber Channel To Block.png",
     "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/11. Adding A Trace Channel/Creating A Custom Preset For Collision.png",
     "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/11. Adding A Trace Channel/Configuration Of Grabber Trace Channel.png",
     "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/11. Adding A Trace Channel/New Trace Channel.png",
     "Unreal/Learn Unreal/Project 3 - Crypt Raider/10. Adding A Grabber.md",
-    "Unreal/Learn Unreal/Project 3 - Crypt Raider/11. Adding A Trace Channel.md",
     "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/11. Adding A Trace Channel",
     "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/10. Adding A Grabber/Showing Grabber Location And Rotation Updating.png",
     "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/10. Adding A Grabber/Added Grabber To Camera.png",
     "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/10. Adding A Grabber/How To Add Grabber To Camera.png",
     "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/10. Adding A Grabber/Selecting Scene Component When Making New Class.png",
     "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/10. Adding A Grabber/Example Hierarchy Of Scene Components.png",
-    "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/10. Adding A Grabber/Gargoyle Placed In Corner.png",
     "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/10. Adding A Grabber",
-    "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/9. Adding Movement Logic To Mover Component/Secret Doorway.gif",
     "Unreal/Learn Unreal/Project 3 - Crypt Raider/8. Accessing Actor Properties.md",
     "Unreal/Learn Unreal/Project 3 - Crypt Raider/9. Adding Movement Logic To Mover Component.md",
     "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/9. Adding Movement Logic To Mover Component",
@@ -194,7 +196,6 @@
     "Unreal/Learn Unreal/Project 3 - Crypt Raider/3. Light Types.md",
     "Unreal/Learn Unreal/Project 3 - Crypt Raider/2. Level Building.md",
     "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/3. Light Types",
-    "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/2. Level Building",
     "Unreal/Learn Unreal/Project 3 - Crypt Raider/1. Setting Up.md",
     "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/10. Geometry Brushes.md",
     "Unreal/Learn Unreal/Project 2 - Obstacle Assault/1. Setup.md",
@@ -204,7 +205,6 @@
     "Unreal/Learn Unreal/Project 2 - Obstacle Assault/13. Putting It All Together.md",
     "Unreal/Learn Unreal/Project 3 - Crypt Raider.md",
     "Unreal/Learn Unreal/Project 2 - Obstacle Assault/12. A Rotating Platform.md",
-    "Unreal/Learn Unreal/Project 2 - Obstacle Assault/10. Game Mode Class.md",
-    "Unreal/Learn Unreal/Project 2 - Obstacle Assault/9. Pusher Cube.md"
+    "Unreal/Learn Unreal/Project 2 - Obstacle Assault/10. Game Mode Class.md"
   ]
 }
