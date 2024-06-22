@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 3 - Crypt Raider/14. Detecting Objects.md",
+                "file": "Unreal/Learn Unreal/Project 3 - Crypt Raider/15. Making A Grab Action.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "logfmt",
+                "query": "Get Player",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 3 - Crypt Raider/14. Detecting Objects.md",
+                "file": "Unreal/Learn Unreal/Project 3 - Crypt Raider/15. Making A Grab Action.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 3 - Crypt Raider/14. Detecting Objects.md",
+                "file": "Unreal/Learn Unreal/Project 3 - Crypt Raider/15. Making A Grab Action.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 3 - Crypt Raider/14. Detecting Objects.md"
+                "file": "Unreal/Learn Unreal/Project 3 - Crypt Raider/15. Making A Grab Action.md"
               }
             }
           }
@@ -147,51 +147,51 @@
   },
   "active": "2740b24094ffbcd3",
   "lastOpenFiles": [
-    "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/14. Detecting Objects/Object Detection.gif",
+    "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/15. Making A Grab Action/Detecting The Grab Action.gif",
+    "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/15. Making A Grab Action/Reacting To Grab And Release.png",
+    "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/15. Making A Grab Action/Adding Input Mapping Context To Player Controller.png",
+    "Unreal/Learn Unreal/Setup.md",
+    "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/8. Firing Forwards.md",
+    "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/6. Blueprint Classes.md",
+    "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/5. Adding An Impulse.md",
+    "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/14. Using Blueprint Functions.md",
+    "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/13. Adding Ammo.md",
+    "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/10. Geometry Brushes.md",
+    "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/11. Creating A Prop Rack.md",
+    "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/9. Importing Assets.md",
+    "Unreal/Learn Unreal/Project 3 - Crypt Raider/6. Setting Up Player Pawn.md",
     "Unreal/Learn Unreal/Project 3 - Crypt Raider/8. Accessing Actor Properties.md",
+    "Unreal/Learn Unreal/Project 2 - Obstacle Assault/1. Setup.md",
+    "Unreal/Learn Unreal/Project 3 - Crypt Raider/15. Making A Grab Action.md",
+    "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/15. Making A Grab Action/Filled Out IMC_Grabbing Input Mapping Context.png",
+    "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/15. Making A Grab Action/Option To Create An Input Mapping Context.png",
+    "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/15. Making A Grab Action/Setup Of IA_Grab Input Action.png",
+    "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/15. Making A Grab Action/Create A New Input Action.png",
+    "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/15. Making A Grab Action/Checking If Enhanced Input Is Used.png",
     "Unreal/Learn Unreal/Project 3 - Crypt Raider/14. Detecting Objects.md",
+    "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/15. Making A Grab Action",
+    "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/14. Detecting Objects/Object Detection.gif",
     "Unreal/Learn Unreal/Project 3 - Crypt Raider/13. Grab Distance And Debug Lines.md",
     "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/14. Detecting Objects/Determining Game Trace Channel From DefaultEngine.ini.png",
     "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/14. Detecting Objects/Determining The Game Trace Channel From Properties.png",
     "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/14. Detecting Objects",
-    "Unreal/Learn Unreal/Project 3 - Crypt Raider/Untitled.md",
-    "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/13. Grab Distance And Debug Lines/Showing Debug Line Drawn Along Forward Vector.png",
     "Unreal/Learn Unreal/Project 3 - Crypt Raider/12. Explaining UWorld.md",
     "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/13. Grab Distance And Debug Lines",
-    "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/12. Explaining  UWorld/Testing Printing Out World Time.png",
-    "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/12. Explaining  UWorld/How UWorld And ULevel Compose.png",
     "Unreal/Learn Unreal/Project 3 - Crypt Raider/11. Adding A Trace Channel.md",
     "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/12. Explaining  UWorld",
-    "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/11. Adding A Trace Channel/Turning  Grabber Channel To Block.png",
-    "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/11. Adding A Trace Channel/Creating A Custom Preset For Collision.png",
-    "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/11. Adding A Trace Channel/Configuration Of Grabber Trace Channel.png",
-    "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/11. Adding A Trace Channel/New Trace Channel.png",
     "Unreal/Learn Unreal/Project 3 - Crypt Raider/10. Adding A Grabber.md",
     "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/11. Adding A Trace Channel",
-    "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/10. Adding A Grabber/Showing Grabber Location And Rotation Updating.png",
     "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/10. Adding A Grabber",
     "Unreal/Learn Unreal/Project 3 - Crypt Raider/9. Adding Movement Logic To Mover Component.md",
     "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/9. Adding Movement Logic To Mover Component",
     "Unreal/Learn Unreal/Project 2 - Obstacle Assault/11. Logging To Console.md",
     "Unreal/Learn Unreal/Project 3 - Crypt Raider/7. Creating A Mover Actor Component.md",
     "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/8. Accessing Actor Properties",
-    "Unreal/Learn Unreal/Project 3 - Crypt Raider/6. Setting Up Player Pawn.md",
     "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/7. Creating A Mover Actor Component",
     "Unreal/Learn Unreal/Project 2 - Obstacle Assault/3. Compiling C++.md",
     "Unreal/Learn Unreal/Project 2 - Obstacle Assault/4. Examples Of Properties.md",
     "Unreal/Learn Unreal/Project 3 - Crypt Raider/5. Interior Lighting.md",
     "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/6. Setting Up Player Pawn",
-    "Unreal/Learn Unreal/Project 3 - Crypt Raider/4. Lumen & Light Bleed.md",
-    "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/5. Interior Lighting",
-    "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/Untitled.md",
-    "Unreal/Learn Unreal/Project 3 - Crypt Raider/3. Light Types.md",
-    "Unreal/Learn Unreal/Project 3 - Crypt Raider/2. Level Building.md",
-    "Unreal/Learn Unreal/Project 3 - Crypt Raider/1. Setting Up.md",
-    "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/10. Geometry Brushes.md",
-    "Unreal/Learn Unreal/Project 2 - Obstacle Assault/1. Setup.md",
-    "Unreal/Learn Unreal/Setup.md",
-    "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/9. Importing Assets.md",
-    "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/1. Setup.md",
-    "Unreal/Learn Unreal/Project 2 - Obstacle Assault/13. Putting It All Together.md"
+    "Unreal/Learn Unreal/Project 3 - Crypt Raider/4. Lumen & Light Bleed.md"
   ]
 }
