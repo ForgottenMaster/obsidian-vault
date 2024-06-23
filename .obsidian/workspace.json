@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 3 - Crypt Raider/16. Making Grab And Release Callable From Blueprint.md",
+                "file": "Unreal/Learn Unreal/Project 3 - Crypt Raider/17. Setting Up A PhysicsHandle Component.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 3 - Crypt Raider/16. Making Grab And Release Callable From Blueprint.md",
+                "file": "Unreal/Learn Unreal/Project 3 - Crypt Raider/17. Setting Up A PhysicsHandle Component.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 3 - Crypt Raider/16. Making Grab And Release Callable From Blueprint.md",
+                "file": "Unreal/Learn Unreal/Project 3 - Crypt Raider/17. Setting Up A PhysicsHandle Component.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 3 - Crypt Raider/16. Making Grab And Release Callable From Blueprint.md"
+                "file": "Unreal/Learn Unreal/Project 3 - Crypt Raider/17. Setting Up A PhysicsHandle Component.md"
               }
             }
           }
@@ -147,10 +147,13 @@
   },
   "active": "2740b24094ffbcd3",
   "lastOpenFiles": [
+    "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/17. Setting Up A PhysicsHandle Component/Error On No Physics Handle Added To The Player.png",
+    "Unreal/Learn Unreal/Project 3 - Crypt Raider/17. Setting Up A PhysicsHandle Component.md",
+    "Unreal/Learn Unreal/Project 3 - Crypt Raider/16. Making Grab And Release Callable From Blueprint.md",
+    "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/17. Setting Up A PhysicsHandle Component",
     "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/16. Making Grab And Release Callable From Blueprint/Grab And Release Working.gif",
     "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/16. Making Grab And Release Callable From Blueprint/Hooking Up Grab And Release In Blueprints.png",
     "Unreal/Learn Unreal/Project 3 - Crypt Raider/15. Making A Grab Action.md",
-    "Unreal/Learn Unreal/Project 3 - Crypt Raider/16. Making Grab And Release Callable From Blueprint.md",
     "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/16. Making Grab And Release Callable From Blueprint",
     "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/15. Making A Grab Action/Detecting The Grab Action.gif",
     "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/15. Making A Grab Action/Reacting To Grab And Release.png",
@@ -171,10 +174,8 @@
     "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/15. Making A Grab Action/Option To Create An Input Mapping Context.png",
     "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/15. Making A Grab Action/Setup Of IA_Grab Input Action.png",
     "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/15. Making A Grab Action/Create A New Input Action.png",
-    "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/15. Making A Grab Action/Checking If Enhanced Input Is Used.png",
     "Unreal/Learn Unreal/Project 3 - Crypt Raider/14. Detecting Objects.md",
     "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/15. Making A Grab Action",
-    "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/14. Detecting Objects/Object Detection.gif",
     "Unreal/Learn Unreal/Project 3 - Crypt Raider/13. Grab Distance And Debug Lines.md",
     "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/14. Detecting Objects",
     "Unreal/Learn Unreal/Project 3 - Crypt Raider/12. Explaining UWorld.md",
@@ -189,9 +190,7 @@
     "Unreal/Learn Unreal/Project 2 - Obstacle Assault/11. Logging To Console.md",
     "Unreal/Learn Unreal/Project 3 - Crypt Raider/7. Creating A Mover Actor Component.md",
     "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/8. Accessing Actor Properties",
-    "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/7. Creating A Mover Actor Component",
     "Unreal/Learn Unreal/Project 2 - Obstacle Assault/3. Compiling C++.md",
-    "Unreal/Learn Unreal/Project 2 - Obstacle Assault/4. Examples Of Properties.md",
-    "Unreal/Learn Unreal/Project 3 - Crypt Raider/5. Interior Lighting.md"
+    "Unreal/Learn Unreal/Project 2 - Obstacle Assault/4. Examples Of Properties.md"
   ]
 }
