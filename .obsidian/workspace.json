@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 3 - Crypt Raider/17. Setting Up A PhysicsHandle Component.md",
+                "file": "Unreal/Learn Unreal/Project 3 - Crypt Raider/18. Drawing Debug Spheres.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 3 - Crypt Raider/17. Setting Up A PhysicsHandle Component.md",
+                "file": "Unreal/Learn Unreal/Project 3 - Crypt Raider/18. Drawing Debug Spheres.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 3 - Crypt Raider/17. Setting Up A PhysicsHandle Component.md",
+                "file": "Unreal/Learn Unreal/Project 3 - Crypt Raider/18. Drawing Debug Spheres.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 3 - Crypt Raider/17. Setting Up A PhysicsHandle Component.md"
+                "file": "Unreal/Learn Unreal/Project 3 - Crypt Raider/18. Drawing Debug Spheres.md"
               }
             }
           }
@@ -147,8 +147,12 @@
   },
   "active": "2740b24094ffbcd3",
   "lastOpenFiles": [
-    "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/17. Setting Up A PhysicsHandle Component/Error On No Physics Handle Added To The Player.png",
+    "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/18. Drawing Debug Spheres/Draw Debug Sphere On Miss.png",
+    "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/18. Drawing Debug Spheres/Debug Sphere At Hit Location.png",
+    "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/18. Drawing Debug Spheres",
     "Unreal/Learn Unreal/Project 3 - Crypt Raider/17. Setting Up A PhysicsHandle Component.md",
+    "Unreal/Learn Unreal/Project 3 - Crypt Raider/18. Drawing Debug Spheres.md",
+    "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/17. Setting Up A PhysicsHandle Component/Error On No Physics Handle Added To The Player.png",
     "Unreal/Learn Unreal/Project 3 - Crypt Raider/16. Making Grab And Release Callable From Blueprint.md",
     "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/17. Setting Up A PhysicsHandle Component",
     "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/16. Making Grab And Release Callable From Blueprint/Grab And Release Working.gif",
@@ -173,7 +177,6 @@
     "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/15. Making A Grab Action/Filled Out IMC_Grabbing Input Mapping Context.png",
     "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/15. Making A Grab Action/Option To Create An Input Mapping Context.png",
     "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/15. Making A Grab Action/Setup Of IA_Grab Input Action.png",
-    "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/15. Making A Grab Action/Create A New Input Action.png",
     "Unreal/Learn Unreal/Project 3 - Crypt Raider/14. Detecting Objects.md",
     "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/15. Making A Grab Action",
     "Unreal/Learn Unreal/Project 3 - Crypt Raider/13. Grab Distance And Debug Lines.md",
@@ -189,8 +192,6 @@
     "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/9. Adding Movement Logic To Mover Component",
     "Unreal/Learn Unreal/Project 2 - Obstacle Assault/11. Logging To Console.md",
     "Unreal/Learn Unreal/Project 3 - Crypt Raider/7. Creating A Mover Actor Component.md",
-    "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/8. Accessing Actor Properties",
-    "Unreal/Learn Unreal/Project 2 - Obstacle Assault/3. Compiling C++.md",
-    "Unreal/Learn Unreal/Project 2 - Obstacle Assault/4. Examples Of Properties.md"
+    "Unreal/Learn Unreal/Project 2 - Obstacle Assault/3. Compiling C++.md"
   ]
 }
