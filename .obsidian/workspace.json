@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 3 - Crypt Raider/18. Drawing Debug Spheres.md",
+                "file": "Unreal/Learn Unreal/Project 3 - Crypt Raider/19. Grabbing The Object.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 3 - Crypt Raider/18. Drawing Debug Spheres.md",
+                "file": "Unreal/Learn Unreal/Project 3 - Crypt Raider/19. Grabbing The Object.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 3 - Crypt Raider/18. Drawing Debug Spheres.md",
+                "file": "Unreal/Learn Unreal/Project 3 - Crypt Raider/19. Grabbing The Object.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 3 - Crypt Raider/18. Drawing Debug Spheres.md"
+                "file": "Unreal/Learn Unreal/Project 3 - Crypt Raider/19. Grabbing The Object.md"
               }
             }
           }
@@ -147,11 +147,16 @@
   },
   "active": "2740b24094ffbcd3",
   "lastOpenFiles": [
+    "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/19. Grabbing The Object/Grabbing Working.gif",
+    "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/19. Grabbing The Object/Simulate Physics On The Statue.png",
+    "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/19. Grabbing The Object/Enabling Movable On The Gargoyle.png",
+    "Unreal/Learn Unreal/Project 3 - Crypt Raider/18. Drawing Debug Spheres.md",
+    "Unreal/Learn Unreal/Project 3 - Crypt Raider/19. Grabbing The Object.md",
+    "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/19. Grabbing The Object",
     "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/18. Drawing Debug Spheres/Draw Debug Sphere On Miss.png",
     "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/18. Drawing Debug Spheres/Debug Sphere At Hit Location.png",
     "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/18. Drawing Debug Spheres",
     "Unreal/Learn Unreal/Project 3 - Crypt Raider/17. Setting Up A PhysicsHandle Component.md",
-    "Unreal/Learn Unreal/Project 3 - Crypt Raider/18. Drawing Debug Spheres.md",
     "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/17. Setting Up A PhysicsHandle Component/Error On No Physics Handle Added To The Player.png",
     "Unreal/Learn Unreal/Project 3 - Crypt Raider/16. Making Grab And Release Callable From Blueprint.md",
     "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/17. Setting Up A PhysicsHandle Component",
@@ -174,9 +179,6 @@
     "Unreal/Learn Unreal/Project 3 - Crypt Raider/6. Setting Up Player Pawn.md",
     "Unreal/Learn Unreal/Project 3 - Crypt Raider/8. Accessing Actor Properties.md",
     "Unreal/Learn Unreal/Project 2 - Obstacle Assault/1. Setup.md",
-    "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/15. Making A Grab Action/Filled Out IMC_Grabbing Input Mapping Context.png",
-    "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/15. Making A Grab Action/Option To Create An Input Mapping Context.png",
-    "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/15. Making A Grab Action/Setup Of IA_Grab Input Action.png",
     "Unreal/Learn Unreal/Project 3 - Crypt Raider/14. Detecting Objects.md",
     "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/15. Making A Grab Action",
     "Unreal/Learn Unreal/Project 3 - Crypt Raider/13. Grab Distance And Debug Lines.md",
@@ -189,9 +191,7 @@
     "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/11. Adding A Trace Channel",
     "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/10. Adding A Grabber",
     "Unreal/Learn Unreal/Project 3 - Crypt Raider/9. Adding Movement Logic To Mover Component.md",
-    "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/9. Adding Movement Logic To Mover Component",
     "Unreal/Learn Unreal/Project 2 - Obstacle Assault/11. Logging To Console.md",
-    "Unreal/Learn Unreal/Project 3 - Crypt Raider/7. Creating A Mover Actor Component.md",
-    "Unreal/Learn Unreal/Project 2 - Obstacle Assault/3. Compiling C++.md"
+    "Unreal/Learn Unreal/Project 3 - Crypt Raider/7. Creating A Mover Actor Component.md"
   ]
 }
