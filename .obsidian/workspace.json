@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 3 - Crypt Raider/21. Overlap Checks.md",
+                "file": "Unreal/Learn Unreal/Project 3 - Crypt Raider/22. Enabling Ticking On UTrigger.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 3 - Crypt Raider/21. Overlap Checks.md",
+                "file": "Unreal/Learn Unreal/Project 3 - Crypt Raider/22. Enabling Ticking On UTrigger.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 3 - Crypt Raider/21. Overlap Checks.md",
+                "file": "Unreal/Learn Unreal/Project 3 - Crypt Raider/22. Enabling Ticking On UTrigger.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 3 - Crypt Raider/21. Overlap Checks.md"
+                "file": "Unreal/Learn Unreal/Project 3 - Crypt Raider/22. Enabling Ticking On UTrigger.md"
               }
             }
           }
@@ -147,10 +147,11 @@
   },
   "active": "8bad70548d9fa6bf",
   "lastOpenFiles": [
+    "Unreal/Learn Unreal/Project 3 - Crypt Raider/21. Overlap Checks.md",
+    "Unreal/Learn Unreal/Project 3 - Crypt Raider/22. Enabling Ticking On UTrigger.md",
     "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/21. Overlap Checks/Results.gif",
     "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/21. Overlap Checks/Event Graph For BP_Secret_Door.png",
     "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/21. Overlap Checks/Event Graph For BP_Secret_Door.png",
-    "Unreal/Learn Unreal/Project 3 - Crypt Raider/21. Overlap Checks.md",
     "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/21. Overlap Checks/Table Showing Least Blocking Interaction Taken.png",
     "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/21. Overlap Checks/Turning Hit Events On.png",
     "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/21. Overlap Checks/Turning Overlap Events On.png",
@@ -158,7 +159,6 @@
     "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/21. Overlap Checks/Adding The Trigger Component To The Secret Door.png",
     "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/21. Overlap Checks/Making A New Component From Box Component.png",
     "Unreal/Learn Unreal/Project 3 - Crypt Raider/Pasted image 20240726184054.png",
-    "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/21. Overlap Checks/Making BP_Secret_Door Blueprint.png",
     "Unreal/Learn Unreal/Project 3 - Crypt Raider/17. Setting Up A PhysicsHandle Component.md",
     "Unreal/Learn Unreal/Project 3 - Crypt Raider/6. Setting Up Player Pawn.md",
     "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/21. Overlap Checks",
