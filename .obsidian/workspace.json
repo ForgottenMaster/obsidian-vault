@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2740b24094ffbcd3",
+            "id": "8bad70548d9fa6bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 3 - Crypt Raider/20. Releasing The Object.md",
+                "file": "Unreal/Learn Unreal/Project 3 - Crypt Raider/21. Overlap Checks.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 3 - Crypt Raider/20. Releasing The Object.md",
+                "file": "Unreal/Learn Unreal/Project 3 - Crypt Raider/21. Overlap Checks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 3 - Crypt Raider/20. Releasing The Object.md",
+                "file": "Unreal/Learn Unreal/Project 3 - Crypt Raider/21. Overlap Checks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 3 - Crypt Raider/20. Releasing The Object.md"
+                "file": "Unreal/Learn Unreal/Project 3 - Crypt Raider/21. Overlap Checks.md"
               }
             }
           }
@@ -145,30 +145,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2740b24094ffbcd3",
+  "active": "8bad70548d9fa6bf",
   "lastOpenFiles": [
-    "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/20. Releasing The Object/Results.gif",
+    "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/21. Overlap Checks/Results.gif",
+    "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/21. Overlap Checks/Event Graph For BP_Secret_Door.png",
+    "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/21. Overlap Checks/Event Graph For BP_Secret_Door.png",
+    "Unreal/Learn Unreal/Project 3 - Crypt Raider/21. Overlap Checks.md",
+    "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/21. Overlap Checks/Table Showing Least Blocking Interaction Taken.png",
+    "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/21. Overlap Checks/Turning Hit Events On.png",
+    "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/21. Overlap Checks/Turning Overlap Events On.png",
+    "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/21. Overlap Checks/Setup Of The Trigger Component.png",
+    "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/21. Overlap Checks/Adding The Trigger Component To The Secret Door.png",
+    "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/21. Overlap Checks/Making A New Component From Box Component.png",
+    "Unreal/Learn Unreal/Project 3 - Crypt Raider/Pasted image 20240726184054.png",
+    "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/21. Overlap Checks/Making BP_Secret_Door Blueprint.png",
     "Unreal/Learn Unreal/Project 3 - Crypt Raider/17. Setting Up A PhysicsHandle Component.md",
+    "Unreal/Learn Unreal/Project 3 - Crypt Raider/6. Setting Up Player Pawn.md",
+    "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/21. Overlap Checks",
     "Unreal/Learn Unreal/Project 3 - Crypt Raider/20. Releasing The Object.md",
     "Unreal/Learn Unreal/Project 3 - Crypt Raider/19. Grabbing The Object.md",
     "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/20. Releasing The Object",
-    "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/19. Grabbing The Object/Grabbing Working.gif",
-    "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/19. Grabbing The Object/Simulate Physics On The Statue.png",
-    "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/19. Grabbing The Object/Enabling Movable On The Gargoyle.png",
     "Unreal/Learn Unreal/Project 3 - Crypt Raider/18. Drawing Debug Spheres.md",
     "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/19. Grabbing The Object",
-    "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/18. Drawing Debug Spheres/Draw Debug Sphere On Miss.png",
-    "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/18. Drawing Debug Spheres/Debug Sphere At Hit Location.png",
     "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/18. Drawing Debug Spheres",
-    "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/17. Setting Up A PhysicsHandle Component/Error On No Physics Handle Added To The Player.png",
     "Unreal/Learn Unreal/Project 3 - Crypt Raider/16. Making Grab And Release Callable From Blueprint.md",
     "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/17. Setting Up A PhysicsHandle Component",
-    "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/16. Making Grab And Release Callable From Blueprint/Grab And Release Working.gif",
-    "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/16. Making Grab And Release Callable From Blueprint/Hooking Up Grab And Release In Blueprints.png",
     "Unreal/Learn Unreal/Project 3 - Crypt Raider/15. Making A Grab Action.md",
     "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/16. Making Grab And Release Callable From Blueprint",
-    "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/15. Making A Grab Action/Detecting The Grab Action.gif",
-    "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/15. Making A Grab Action/Reacting To Grab And Release.png",
     "Unreal/Learn Unreal/Setup.md",
     "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/8. Firing Forwards.md",
     "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/6. Blueprint Classes.md",
@@ -178,7 +181,6 @@
     "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/10. Geometry Brushes.md",
     "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/11. Creating A Prop Rack.md",
     "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/9. Importing Assets.md",
-    "Unreal/Learn Unreal/Project 3 - Crypt Raider/6. Setting Up Player Pawn.md",
     "Unreal/Learn Unreal/Project 3 - Crypt Raider/8. Accessing Actor Properties.md",
     "Unreal/Learn Unreal/Project 2 - Obstacle Assault/1. Setup.md",
     "Unreal/Learn Unreal/Project 3 - Crypt Raider/14. Detecting Objects.md",
@@ -190,8 +192,6 @@
     "Unreal/Learn Unreal/Project 3 - Crypt Raider/11. Adding A Trace Channel.md",
     "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/12. Explaining  UWorld",
     "Unreal/Learn Unreal/Project 3 - Crypt Raider/10. Adding A Grabber.md",
-    "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/11. Adding A Trace Channel",
-    "Unreal/Learn Unreal/Project 3 - Crypt Raider/9. Adding Movement Logic To Mover Component.md",
-    "Unreal/Learn Unreal/Project 2 - Obstacle Assault/11. Logging To Console.md"
+    "Unreal/Learn Unreal/Project 3 - Crypt Raider/9. Adding Movement Logic To Mover Component.md"
   ]
 }
