@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 3 - Crypt Raider/23. Detecting Overlapping Actors.md",
+                "file": "Unreal/Learn Unreal/Project 3 - Crypt Raider/24. Filtering With Actor Tags.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 3 - Crypt Raider/23. Detecting Overlapping Actors.md",
+                "file": "Unreal/Learn Unreal/Project 3 - Crypt Raider/24. Filtering With Actor Tags.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 3 - Crypt Raider/23. Detecting Overlapping Actors.md",
+                "file": "Unreal/Learn Unreal/Project 3 - Crypt Raider/24. Filtering With Actor Tags.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 3 - Crypt Raider/23. Detecting Overlapping Actors.md"
+                "file": "Unreal/Learn Unreal/Project 3 - Crypt Raider/24. Filtering With Actor Tags.md"
               }
             }
           }
@@ -147,9 +147,16 @@
   },
   "active": "8bad70548d9fa6bf",
   "lastOpenFiles": [
+    "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/24. Filtering With Actor Tags/Results.gif",
+    "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/24. Filtering With Actor Tags/Unlock1 Tag Set On Component.png",
+    "Unreal/Learn Unreal/Project 3 - Crypt Raider/24. Filtering With Actor Tags.md",
+    "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/24. Filtering With Actor Tags/Unlock1 Actor Tag Added.png",
+    "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/24. Filtering With Actor Tags/Adding An Actor Tag To An Actor.png",
+    "Unreal/Learn Unreal/Project 3 - Crypt Raider/Pasted image 20240727095707.png",
+    "Unreal/Learn Unreal/Project 3 - Crypt Raider/23. Detecting Overlapping Actors.md",
+    "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/24. Filtering With Actor Tags",
     "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/23. Detecting Overlapping Actors/Results.gif",
     "Unreal/Learn Unreal/Project 3 - Crypt Raider/22. Enabling Ticking On UTrigger.md",
-    "Unreal/Learn Unreal/Project 3 - Crypt Raider/23. Detecting Overlapping Actors.md",
     "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/23. Detecting Overlapping Actors",
     "Unreal/Learn Unreal/Project 3 - Crypt Raider/21. Overlap Checks.md",
     "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/21. Overlap Checks/Results.gif",
@@ -157,11 +164,6 @@
     "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/21. Overlap Checks/Event Graph For BP_Secret_Door.png",
     "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/21. Overlap Checks/Table Showing Least Blocking Interaction Taken.png",
     "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/21. Overlap Checks/Turning Hit Events On.png",
-    "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/21. Overlap Checks/Turning Overlap Events On.png",
-    "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/21. Overlap Checks/Setup Of The Trigger Component.png",
-    "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/21. Overlap Checks/Adding The Trigger Component To The Secret Door.png",
-    "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/21. Overlap Checks/Making A New Component From Box Component.png",
-    "Unreal/Learn Unreal/Project 3 - Crypt Raider/Pasted image 20240726184054.png",
     "Unreal/Learn Unreal/Project 3 - Crypt Raider/17. Setting Up A PhysicsHandle Component.md",
     "Unreal/Learn Unreal/Project 3 - Crypt Raider/6. Setting Up Player Pawn.md",
     "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/21. Overlap Checks",
@@ -190,8 +192,6 @@
     "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/15. Making A Grab Action",
     "Unreal/Learn Unreal/Project 3 - Crypt Raider/13. Grab Distance And Debug Lines.md",
     "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/14. Detecting Objects",
-    "Unreal/Learn Unreal/Project 3 - Crypt Raider/12. Explaining UWorld.md",
-    "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/13. Grab Distance And Debug Lines",
-    "Unreal/Learn Unreal/Project 3 - Crypt Raider/11. Adding A Trace Channel.md"
+    "Unreal/Learn Unreal/Project 3 - Crypt Raider/12. Explaining UWorld.md"
   ]
 }
