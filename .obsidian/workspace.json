@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 4 - Toon Tanks/1. Setting Up.md",
+                "file": "Unreal/Learn Unreal/Project 4 - Toon Tanks/2. Creating A Base Pawn Class.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 4 - Toon Tanks/1. Setting Up.md",
+                "file": "Unreal/Learn Unreal/Project 4 - Toon Tanks/2. Creating A Base Pawn Class.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 4 - Toon Tanks/1. Setting Up.md",
+                "file": "Unreal/Learn Unreal/Project 4 - Toon Tanks/2. Creating A Base Pawn Class.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 4 - Toon Tanks/1. Setting Up.md"
+                "file": "Unreal/Learn Unreal/Project 4 - Toon Tanks/2. Creating A Base Pawn Class.md"
               }
             }
           }
@@ -147,10 +147,16 @@
   },
   "active": "8bad70548d9fa6bf",
   "lastOpenFiles": [
+    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/2. Creating A Base Pawn Class/Selecting Pawn As Base Class.png",
+    "Unreal/Learn Unreal/Project 4 - Toon Tanks/2. Creating A Base Pawn Class.md",
+    "Unreal/Learn Unreal/Setup.md",
+    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/2. Creating A Base Pawn Class/Adding A C++ Class To Toon Tanks.png",
+    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/2. Creating A Base Pawn Class",
+    "Unreal/Learn Unreal/Project 4 - Toon Tanks/1. Setting Up.md",
+    "gitleaks_report_008ecad0-ec81-4948-b514-663a111f60b0.json",
     "gitleaks_report_0b3073dc-d2c7-46b8-ac31-1bdd062b279f.json",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/1. Setting Up/Toon Tanks Arena.png",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/1. Setting Up/Downloading Toon Tanks Project.png",
-    "Unreal/Learn Unreal/Project 4 - Toon Tanks/1. Setting Up.md",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/1. Setting Up",
     "Unreal/Learn Unreal/Project 3 - Crypt Raider/24. Filtering With Actor Tags.md",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks",
@@ -166,8 +172,6 @@
     "Unreal/Learn Unreal/Project 3 - Crypt Raider/22. Enabling Ticking On UTrigger.md",
     "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/23. Detecting Overlapping Actors",
     "Unreal/Learn Unreal/Project 3 - Crypt Raider/21. Overlap Checks.md",
-    "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/21. Overlap Checks/Results.gif",
-    "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/21. Overlap Checks/Event Graph For BP_Secret_Door.png",
     "Unreal/Learn Unreal/Project 3 - Crypt Raider/17. Setting Up A PhysicsHandle Component.md",
     "Unreal/Learn Unreal/Project 3 - Crypt Raider/6. Setting Up Player Pawn.md",
     "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/21. Overlap Checks",
@@ -175,12 +179,8 @@
     "Unreal/Learn Unreal/Project 3 - Crypt Raider/19. Grabbing The Object.md",
     "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/20. Releasing The Object",
     "Unreal/Learn Unreal/Project 3 - Crypt Raider/18. Drawing Debug Spheres.md",
-    "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/19. Grabbing The Object",
-    "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/18. Drawing Debug Spheres",
     "Unreal/Learn Unreal/Project 3 - Crypt Raider/16. Making Grab And Release Callable From Blueprint.md",
-    "+Attachments/Unreal/Learn Unreal/Project 3 - Crypt Raider/17. Setting Up A PhysicsHandle Component",
     "Unreal/Learn Unreal/Project 3 - Crypt Raider/15. Making A Grab Action.md",
-    "Unreal/Learn Unreal/Setup.md",
     "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/8. Firing Forwards.md",
     "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/6. Blueprint Classes.md",
     "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/5. Adding An Impulse.md",
@@ -191,7 +191,6 @@
     "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/9. Importing Assets.md",
     "Unreal/Learn Unreal/Project 3 - Crypt Raider/8. Accessing Actor Properties.md",
     "Unreal/Learn Unreal/Project 2 - Obstacle Assault/1. Setup.md",
-    "Unreal/Learn Unreal/Project 3 - Crypt Raider/14. Detecting Objects.md",
-    "Unreal/Learn Unreal/Project 3 - Crypt Raider/13. Grab Distance And Debug Lines.md"
+    "Unreal/Learn Unreal/Project 3 - Crypt Raider/14. Detecting Objects.md"
   ]
 }
