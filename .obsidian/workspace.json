@@ -11,15 +11,24 @@
             "id": "8bad70548d9fa6bf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 4 - Toon Tanks/4. Making A Tank Actor Class.md",
-                "mode": "source",
-                "source": false
+                "file": "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/5. Possessing The Pawn/Setting Possession Type.png"
+              }
+            }
+          },
+          {
+            "id": "384ef5a99bbf3cdc",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/5. Possessing The Pawn/Setting Possession Type.png"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 4 - Toon Tanks/4. Making A Tank Actor Class.md",
+                "file": "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/5. Possessing The Pawn/Setting Possession Type.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 4 - Toon Tanks/4. Making A Tank Actor Class.md",
+                "file": "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/5. Possessing The Pawn/Setting Possession Type.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 4 - Toon Tanks/4. Making A Tank Actor Class.md"
+                "file": "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/5. Possessing The Pawn/Setting Possession Type.png"
               }
             }
           }
@@ -145,13 +154,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8bad70548d9fa6bf",
+  "active": "9acc9ab8b3d21215",
   "lastOpenFiles": [
+    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/5. Possessing The Pawn/Checking Possessed Pawn.png",
+    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/5. Possessing The Pawn/Setting Possession Type.png",
+    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/5. Possessing The Pawn",
+    "Unreal/Learn Unreal/Project 4 - Toon Tanks/5. Possessing The Pawn.md",
+    "Unreal/Learn Unreal/Project 4 - Toon Tanks/4. Making A Tank Actor Class.md",
+    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/4. Making A Tank Actor Class/Rotating Spring Arm.png",
+    "gitleaks_report_2c5f5fd6-9ddb-4e72-92c7-0cb73faa63a3.json",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/4. Making A Tank Actor Class/Checking Camera And Spring Arm In Editor.png",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/4. Making A Tank Actor Class/Camera And Spring Arm.png",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/4. Making A Tank Actor Class/Reparenting BP_PawnTank.png",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/4. Making A Tank Actor Class/Creating A Derived C++ Class.png",
-    "Unreal/Learn Unreal/Project 4 - Toon Tanks/4. Making A Tank Actor Class.md",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/4. Making A Tank Actor Class",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/3. Making BasePawn Subclasses.md",
     "gitleaks_report_c5b7dd6d-5c78-411f-b8f3-f300f6d59ef4.json",
@@ -159,11 +174,8 @@
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/3. Making BasePawn Subclasses/Placement.png",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/3. Making BasePawn Subclasses/BP_PawnTower Setup.png",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/3. Making BasePawn Subclasses/BP_PawnTank Setup.png",
-    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/3. Making BasePawn Subclasses/Tank Static Meshes.png",
-    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/3. Making BasePawn Subclasses/Making A BasePawn Subclass.png",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/2. Creating A Base Pawn Class.md",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/1. Setting Up.md",
-    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/1. Setting Up/Toon Tanks Arena.png",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/3. Making BasePawn Subclasses",
     "Unreal/Learn Unreal/Setup.md",
     "Unreal/Learn Unreal/Project 3 - Crypt Raider/15. Making A Grab Action.md",
@@ -171,8 +183,6 @@
     "gitleaks_report_fa539a5c-d916-4482-b7e5-da7380c377ca.json",
     "gitleaks_report_a2dc3081-4571-41a8-bc52-9f33848907e3.json",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/2. Creating A Base Pawn Class",
-    "gitleaks_report_008ecad0-ec81-4948-b514-663a111f60b0.json",
-    "gitleaks_report_0b3073dc-d2c7-46b8-ac31-1bdd062b279f.json",
     "Unreal/Learn Unreal/Project 3 - Crypt Raider/24. Filtering With Actor Tags.md",
     "Unreal/Learn Unreal/Project 3 - Crypt Raider/23. Detecting Overlapping Actors.md",
     "Unreal/Learn Unreal/Project 3 - Crypt Raider/22. Enabling Ticking On UTrigger.md",
@@ -190,7 +200,6 @@
     "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/13. Adding Ammo.md",
     "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/10. Geometry Brushes.md",
     "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/11. Creating A Prop Rack.md",
-    "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/9. Importing Assets.md",
-    "Unreal/Learn Unreal/Project 3 - Crypt Raider/8. Accessing Actor Properties.md"
+    "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/9. Importing Assets.md"
   ]
 }
