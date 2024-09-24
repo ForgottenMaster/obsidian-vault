@@ -23,7 +23,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/5. Possessing The Pawn/Setting Possession Type.png"
+                "file": "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/6. Binding Movement To Input/Axis Mappings.png"
               }
             }
           }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/5. Possessing The Pawn/Setting Possession Type.png",
+                "file": "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/6. Binding Movement To Input/Axis Mappings.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/5. Possessing The Pawn/Setting Possession Type.png",
+                "file": "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/6. Binding Movement To Input/Axis Mappings.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/5. Possessing The Pawn/Setting Possession Type.png"
+                "file": "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/6. Binding Movement To Input/Axis Mappings.png"
               }
             }
           }
@@ -156,10 +156,14 @@
   },
   "active": "9acc9ab8b3d21215",
   "lastOpenFiles": [
-    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/5. Possessing The Pawn/Checking Possessed Pawn.png",
-    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/5. Possessing The Pawn/Setting Possession Type.png",
-    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/5. Possessing The Pawn",
+    "Unreal/Learn Unreal/Project 4 - Toon Tanks/6. Binding Movement To Input.md",
+    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/6. Binding Movement To Input/Axis Mappings.png",
+    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/6. Binding Movement To Input",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/5. Possessing The Pawn.md",
+    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/5. Possessing The Pawn/Setting Possession Type.png",
+    "gitleaks_report_dcf887b7-9c91-4f7a-ad1f-2a61278e505e.json",
+    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/5. Possessing The Pawn/Checking Possessed Pawn.png",
+    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/5. Possessing The Pawn",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/4. Making A Tank Actor Class.md",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/4. Making A Tank Actor Class/Rotating Spring Arm.png",
     "gitleaks_report_2c5f5fd6-9ddb-4e72-92c7-0cb73faa63a3.json",
@@ -173,7 +177,6 @@
     "gitleaks_report_53f19b74-60c1-4778-9b80-3b555a2f64a4.json",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/3. Making BasePawn Subclasses/Placement.png",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/3. Making BasePawn Subclasses/BP_PawnTower Setup.png",
-    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/3. Making BasePawn Subclasses/BP_PawnTank Setup.png",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/2. Creating A Base Pawn Class.md",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/1. Setting Up.md",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/3. Making BasePawn Subclasses",
@@ -181,8 +184,6 @@
     "Unreal/Learn Unreal/Project 3 - Crypt Raider/15. Making A Grab Action.md",
     "gitleaks_report_2b743e4f-8811-4410-a786-2675538dd3e8.json",
     "gitleaks_report_fa539a5c-d916-4482-b7e5-da7380c377ca.json",
-    "gitleaks_report_a2dc3081-4571-41a8-bc52-9f33848907e3.json",
-    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/2. Creating A Base Pawn Class",
     "Unreal/Learn Unreal/Project 3 - Crypt Raider/24. Filtering With Actor Tags.md",
     "Unreal/Learn Unreal/Project 3 - Crypt Raider/23. Detecting Overlapping Actors.md",
     "Unreal/Learn Unreal/Project 3 - Crypt Raider/22. Enabling Ticking On UTrigger.md",
@@ -199,7 +200,6 @@
     "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/14. Using Blueprint Functions.md",
     "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/13. Adding Ammo.md",
     "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/10. Geometry Brushes.md",
-    "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/11. Creating A Prop Rack.md",
-    "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/9. Importing Assets.md"
+    "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/11. Creating A Prop Rack.md"
   ]
 }
