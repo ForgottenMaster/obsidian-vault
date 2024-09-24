@@ -21,9 +21,11 @@
             "id": "384ef5a99bbf3cdc",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/6. Binding Movement To Input/Axis Mappings.png"
+                "file": "Unreal/Learn Unreal/Project 4 - Toon Tanks/6. Binding Movement To Input.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -94,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/6. Binding Movement To Input/Axis Mappings.png",
+                "file": "Unreal/Learn Unreal/Project 4 - Toon Tanks/6. Binding Movement To Input.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/6. Binding Movement To Input/Axis Mappings.png",
+                "file": "Unreal/Learn Unreal/Project 4 - Toon Tanks/6. Binding Movement To Input.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/6. Binding Movement To Input/Axis Mappings.png"
+                "file": "Unreal/Learn Unreal/Project 4 - Toon Tanks/6. Binding Movement To Input.md"
               }
             }
           }
@@ -154,10 +156,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9acc9ab8b3d21215",
+  "active": "384ef5a99bbf3cdc",
   "lastOpenFiles": [
-    "Unreal/Learn Unreal/Project 4 - Toon Tanks/6. Binding Movement To Input.md",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/6. Binding Movement To Input/Axis Mappings.png",
+    "gitleaks_report_df70d8ec-df10-448f-aeba-7d486428a574.json",
+    "Unreal/Learn Unreal/Project 4 - Toon Tanks/6. Binding Movement To Input.md",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/6. Binding Movement To Input",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/5. Possessing The Pawn.md",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/5. Possessing The Pawn/Setting Possession Type.png",
@@ -183,7 +186,6 @@
     "Unreal/Learn Unreal/Setup.md",
     "Unreal/Learn Unreal/Project 3 - Crypt Raider/15. Making A Grab Action.md",
     "gitleaks_report_2b743e4f-8811-4410-a786-2675538dd3e8.json",
-    "gitleaks_report_fa539a5c-d916-4482-b7e5-da7380c377ca.json",
     "Unreal/Learn Unreal/Project 3 - Crypt Raider/24. Filtering With Actor Tags.md",
     "Unreal/Learn Unreal/Project 3 - Crypt Raider/23. Detecting Overlapping Actors.md",
     "Unreal/Learn Unreal/Project 3 - Crypt Raider/22. Enabling Ticking On UTrigger.md",
