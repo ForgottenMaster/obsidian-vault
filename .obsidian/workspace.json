@@ -4,33 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "200222b45666a5b6",
+        "id": "04e28dc0f72aae40",
         "type": "tabs",
         "children": [
           {
-            "id": "8bad70548d9fa6bf",
+            "id": "c79a353210ba223a",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/5. Possessing The Pawn/Setting Possession Type.png"
-              }
-            }
-          },
-          {
-            "id": "384ef5a99bbf3cdc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unreal/Learn Unreal/Project 4 - Toon Tanks/9. Getting The Tank's APlayerController.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 4 - Toon Tanks/9. Getting The Tank's APlayerController.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 4 - Toon Tanks/9. Getting The Tank's APlayerController.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Unreal/Learn Unreal/Project 4 - Toon Tanks/9. Getting The Tank's APlayerController.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -156,10 +137,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "384ef5a99bbf3cdc",
+  "active": "c79a353210ba223a",
   "lastOpenFiles": [
-    "Unreal/Learn Unreal/Project 4 - Toon Tanks/8. Making Tank Rotate.md",
+    "Unreal/Learn Unreal/Project 4 - Toon Tanks/10. Getting Location Under Cursor.md",
+    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/5. Possessing The Pawn/Setting Possession Type.png",
+    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/10. Getting Location Under Cursor/Showing Hit Location Under Cursor.png",
+    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/10. Getting Location Under Cursor",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/9. Getting The Tank's APlayerController.md",
+    "gitleaks_report_5085d2b0-9e77-4454-b729-76a137f9a9d6.json",
+    "Unreal/Learn Unreal/Project 4 - Toon Tanks/8. Making Tank Rotate.md",
     "gitleaks_report_ad9d05d8-0445-4966-b32b-bed14bf408c3.json",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/Pasted image 20240924113458.png",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/7. Making Tank Collide.md",
@@ -172,18 +158,14 @@
     "gitleaks_report_df70d8ec-df10-448f-aeba-7d486428a574.json",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/6. Binding Movement To Input",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/5. Possessing The Pawn.md",
-    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/5. Possessing The Pawn/Setting Possession Type.png",
     "gitleaks_report_dcf887b7-9c91-4f7a-ad1f-2a61278e505e.json",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/5. Possessing The Pawn/Checking Possessed Pawn.png",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/5. Possessing The Pawn",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/4. Making A Tank Actor Class.md",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/4. Making A Tank Actor Class/Rotating Spring Arm.png",
-    "gitleaks_report_2c5f5fd6-9ddb-4e72-92c7-0cb73faa63a3.json",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/4. Making A Tank Actor Class/Checking Camera And Spring Arm In Editor.png",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/4. Making A Tank Actor Class/Camera And Spring Arm.png",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/4. Making A Tank Actor Class/Reparenting BP_PawnTank.png",
-    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/4. Making A Tank Actor Class/Creating A Derived C++ Class.png",
-    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/4. Making A Tank Actor Class",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/3. Making BasePawn Subclasses.md",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/2. Creating A Base Pawn Class.md",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/1. Setting Up.md",
@@ -201,8 +183,6 @@
     "Unreal/Learn Unreal/Project 3 - Crypt Raider/16. Making Grab And Release Callable From Blueprint.md",
     "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/8. Firing Forwards.md",
     "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/6. Blueprint Classes.md",
-    "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/5. Adding An Impulse.md",
-    "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/14. Using Blueprint Functions.md",
-    "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/13. Adding Ammo.md"
+    "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/5. Adding An Impulse.md"
   ]
 }
