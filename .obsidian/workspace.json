@@ -11,8 +11,12 @@
             "id": "c79a353210ba223a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Unreal/Learn Unreal/Project 4 - Toon Tanks/11. Rotating The Turret.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Unreal/Learn Unreal/Project 4 - Toon Tanks/11. Rotating The Turret.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Unreal/Learn Unreal/Project 4 - Toon Tanks/11. Rotating The Turret.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Unreal/Learn Unreal/Project 4 - Toon Tanks/11. Rotating The Turret.md"
+              }
             }
           }
         ]
@@ -140,12 +148,13 @@
   "active": "c79a353210ba223a",
   "lastOpenFiles": [
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/10. Getting Location Under Cursor.md",
+    "Unreal/Learn Unreal/Project 4 - Toon Tanks/11. Rotating The Turret.md",
+    "Unreal/Learn Unreal/Project 4 - Toon Tanks/8. Making Tank Rotate.md",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/5. Possessing The Pawn/Setting Possession Type.png",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/10. Getting Location Under Cursor/Showing Hit Location Under Cursor.png",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/10. Getting Location Under Cursor",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/9. Getting The Tank's APlayerController.md",
     "gitleaks_report_5085d2b0-9e77-4454-b729-76a137f9a9d6.json",
-    "Unreal/Learn Unreal/Project 4 - Toon Tanks/8. Making Tank Rotate.md",
     "gitleaks_report_ad9d05d8-0445-4966-b32b-bed14bf408c3.json",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/Pasted image 20240924113458.png",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/7. Making Tank Collide.md",
