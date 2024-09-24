@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 4 - Toon Tanks/8. Making Tank Rotate.md",
+                "file": "Unreal/Learn Unreal/Project 4 - Toon Tanks/9. Getting The Tank's APlayerController.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 4 - Toon Tanks/8. Making Tank Rotate.md",
+                "file": "Unreal/Learn Unreal/Project 4 - Toon Tanks/9. Getting The Tank's APlayerController.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 4 - Toon Tanks/8. Making Tank Rotate.md",
+                "file": "Unreal/Learn Unreal/Project 4 - Toon Tanks/9. Getting The Tank's APlayerController.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 4 - Toon Tanks/8. Making Tank Rotate.md"
+                "file": "Unreal/Learn Unreal/Project 4 - Toon Tanks/9. Getting The Tank's APlayerController.md"
               }
             }
           }
@@ -158,9 +158,11 @@
   },
   "active": "384ef5a99bbf3cdc",
   "lastOpenFiles": [
+    "Unreal/Learn Unreal/Project 4 - Toon Tanks/8. Making Tank Rotate.md",
+    "Unreal/Learn Unreal/Project 4 - Toon Tanks/9. Getting The Tank's APlayerController.md",
+    "gitleaks_report_ad9d05d8-0445-4966-b32b-bed14bf408c3.json",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/Pasted image 20240924113458.png",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/7. Making Tank Collide.md",
-    "Unreal/Learn Unreal/Project 4 - Toon Tanks/8. Making Tank Rotate.md",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/6. Binding Movement To Input.md",
     "gitleaks_report_8d0fe501-d58a-4d35-8a89-1dd77402aead.json",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/7. Making Tank Collide/Setting Tank Collision Preset.png",
@@ -183,8 +185,6 @@
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/4. Making A Tank Actor Class/Creating A Derived C++ Class.png",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/4. Making A Tank Actor Class",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/3. Making BasePawn Subclasses.md",
-    "gitleaks_report_c5b7dd6d-5c78-411f-b8f3-f300f6d59ef4.json",
-    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/3. Making BasePawn Subclasses/Placement.png",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/2. Creating A Base Pawn Class.md",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/1. Setting Up.md",
     "Unreal/Learn Unreal/Setup.md",
