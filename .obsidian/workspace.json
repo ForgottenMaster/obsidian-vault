@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 4 - Toon Tanks/6. Binding Movement To Input.md",
+                "file": "Unreal/Learn Unreal/Project 4 - Toon Tanks/7. Making Tank Collide.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 4 - Toon Tanks/6. Binding Movement To Input.md",
+                "file": "Unreal/Learn Unreal/Project 4 - Toon Tanks/7. Making Tank Collide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 4 - Toon Tanks/6. Binding Movement To Input.md",
+                "file": "Unreal/Learn Unreal/Project 4 - Toon Tanks/7. Making Tank Collide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 4 - Toon Tanks/6. Binding Movement To Input.md"
+                "file": "Unreal/Learn Unreal/Project 4 - Toon Tanks/7. Making Tank Collide.md"
               }
             }
           }
@@ -158,9 +158,13 @@
   },
   "active": "384ef5a99bbf3cdc",
   "lastOpenFiles": [
+    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/7. Making Tank Collide/Setting Tank Collision Preset.png",
+    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/7. Making Tank Collide",
+    "Unreal/Learn Unreal/Project 4 - Toon Tanks/6. Binding Movement To Input.md",
+    "Unreal/Learn Unreal/Project 4 - Toon Tanks/7. Making Tank Collide.md",
+    "gitleaks_report_7b16fe62-8ce8-45be-9cd4-abf8bbb28fc1.json",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/6. Binding Movement To Input/Axis Mappings.png",
     "gitleaks_report_df70d8ec-df10-448f-aeba-7d486428a574.json",
-    "Unreal/Learn Unreal/Project 4 - Toon Tanks/6. Binding Movement To Input.md",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/6. Binding Movement To Input",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/5. Possessing The Pawn.md",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/5. Possessing The Pawn/Setting Possession Type.png",
@@ -182,10 +186,8 @@
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/3. Making BasePawn Subclasses/BP_PawnTower Setup.png",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/2. Creating A Base Pawn Class.md",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/1. Setting Up.md",
-    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/3. Making BasePawn Subclasses",
     "Unreal/Learn Unreal/Setup.md",
     "Unreal/Learn Unreal/Project 3 - Crypt Raider/15. Making A Grab Action.md",
-    "gitleaks_report_2b743e4f-8811-4410-a786-2675538dd3e8.json",
     "Unreal/Learn Unreal/Project 3 - Crypt Raider/24. Filtering With Actor Tags.md",
     "Unreal/Learn Unreal/Project 3 - Crypt Raider/23. Detecting Overlapping Actors.md",
     "Unreal/Learn Unreal/Project 3 - Crypt Raider/22. Enabling Ticking On UTrigger.md",
@@ -201,7 +203,6 @@
     "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/5. Adding An Impulse.md",
     "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/14. Using Blueprint Functions.md",
     "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/13. Adding Ammo.md",
-    "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/10. Geometry Brushes.md",
-    "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/11. Creating A Prop Rack.md"
+    "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/10. Geometry Brushes.md"
   ]
 }
