@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 4 - Toon Tanks/7. Making Tank Collide.md",
+                "file": "Unreal/Learn Unreal/Project 4 - Toon Tanks/8. Making Tank Rotate.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 4 - Toon Tanks/7. Making Tank Collide.md",
+                "file": "Unreal/Learn Unreal/Project 4 - Toon Tanks/8. Making Tank Rotate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 4 - Toon Tanks/7. Making Tank Collide.md",
+                "file": "Unreal/Learn Unreal/Project 4 - Toon Tanks/8. Making Tank Rotate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 4 - Toon Tanks/7. Making Tank Collide.md"
+                "file": "Unreal/Learn Unreal/Project 4 - Toon Tanks/8. Making Tank Rotate.md"
               }
             }
           }
@@ -158,10 +158,13 @@
   },
   "active": "384ef5a99bbf3cdc",
   "lastOpenFiles": [
+    "Unreal/Learn Unreal/Project 4 - Toon Tanks/Pasted image 20240924113458.png",
+    "Unreal/Learn Unreal/Project 4 - Toon Tanks/7. Making Tank Collide.md",
+    "Unreal/Learn Unreal/Project 4 - Toon Tanks/8. Making Tank Rotate.md",
+    "Unreal/Learn Unreal/Project 4 - Toon Tanks/6. Binding Movement To Input.md",
+    "gitleaks_report_8d0fe501-d58a-4d35-8a89-1dd77402aead.json",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/7. Making Tank Collide/Setting Tank Collision Preset.png",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/7. Making Tank Collide",
-    "Unreal/Learn Unreal/Project 4 - Toon Tanks/6. Binding Movement To Input.md",
-    "Unreal/Learn Unreal/Project 4 - Toon Tanks/7. Making Tank Collide.md",
     "gitleaks_report_7b16fe62-8ce8-45be-9cd4-abf8bbb28fc1.json",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/6. Binding Movement To Input/Axis Mappings.png",
     "gitleaks_report_df70d8ec-df10-448f-aeba-7d486428a574.json",
@@ -181,9 +184,7 @@
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/4. Making A Tank Actor Class",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/3. Making BasePawn Subclasses.md",
     "gitleaks_report_c5b7dd6d-5c78-411f-b8f3-f300f6d59ef4.json",
-    "gitleaks_report_53f19b74-60c1-4778-9b80-3b555a2f64a4.json",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/3. Making BasePawn Subclasses/Placement.png",
-    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/3. Making BasePawn Subclasses/BP_PawnTower Setup.png",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/2. Creating A Base Pawn Class.md",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/1. Setting Up.md",
     "Unreal/Learn Unreal/Setup.md",
@@ -202,7 +203,6 @@
     "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/6. Blueprint Classes.md",
     "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/5. Adding An Impulse.md",
     "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/14. Using Blueprint Functions.md",
-    "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/13. Adding Ammo.md",
-    "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/10. Geometry Brushes.md"
+    "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/13. Adding Ammo.md"
   ]
 }
