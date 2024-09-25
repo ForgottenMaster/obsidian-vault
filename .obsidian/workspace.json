@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "04e28dc0f72aae40",
+        "id": "e1cea46c75f9d617",
         "type": "tabs",
         "children": [
           {
-            "id": "c79a353210ba223a",
+            "id": "dddac982a29d1183",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 4 - Toon Tanks/11. Rotating The Turret.md",
+                "file": "Unreal/Learn Unreal/Project 4 - Toon Tanks/12. Making The Tower Class.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 4 - Toon Tanks/11. Rotating The Turret.md",
+                "file": "Unreal/Learn Unreal/Project 4 - Toon Tanks/12. Making The Tower Class.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 4 - Toon Tanks/11. Rotating The Turret.md",
+                "file": "Unreal/Learn Unreal/Project 4 - Toon Tanks/12. Making The Tower Class.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 4 - Toon Tanks/11. Rotating The Turret.md"
+                "file": "Unreal/Learn Unreal/Project 4 - Toon Tanks/12. Making The Tower Class.md"
               }
             }
           }
@@ -145,10 +145,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c79a353210ba223a",
+  "active": "dddac982a29d1183",
   "lastOpenFiles": [
-    "Unreal/Learn Unreal/Project 4 - Toon Tanks/10. Getting Location Under Cursor.md",
+    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/12. Making The Tower Class/Reparenting BP_PawnTurret.png",
+    "Unreal/Learn Unreal/Project 4 - Toon Tanks/12. Making The Tower Class.md",
+    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/12. Making The Tower Class",
+    "2024-09-25.md",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/11. Rotating The Turret.md",
+    "gitleaks_report_458787a6-9a31-4aef-821e-bdb68e094aab.json",
+    "Unreal/Learn Unreal/Project 4 - Toon Tanks/10. Getting Location Under Cursor.md",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/8. Making Tank Rotate.md",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/5. Possessing The Pawn/Setting Possession Type.png",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/10. Getting Location Under Cursor/Showing Hit Location Under Cursor.png",
@@ -167,14 +172,11 @@
     "gitleaks_report_df70d8ec-df10-448f-aeba-7d486428a574.json",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/6. Binding Movement To Input",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/5. Possessing The Pawn.md",
-    "gitleaks_report_dcf887b7-9c91-4f7a-ad1f-2a61278e505e.json",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/5. Possessing The Pawn/Checking Possessed Pawn.png",
-    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/5. Possessing The Pawn",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/4. Making A Tank Actor Class.md",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/4. Making A Tank Actor Class/Rotating Spring Arm.png",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/4. Making A Tank Actor Class/Checking Camera And Spring Arm In Editor.png",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/4. Making A Tank Actor Class/Camera And Spring Arm.png",
-    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/4. Making A Tank Actor Class/Reparenting BP_PawnTank.png",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/3. Making BasePawn Subclasses.md",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/2. Creating A Base Pawn Class.md",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/1. Setting Up.md",
@@ -189,9 +191,6 @@
     "Unreal/Learn Unreal/Project 3 - Crypt Raider/20. Releasing The Object.md",
     "Unreal/Learn Unreal/Project 3 - Crypt Raider/19. Grabbing The Object.md",
     "Unreal/Learn Unreal/Project 3 - Crypt Raider/18. Drawing Debug Spheres.md",
-    "Unreal/Learn Unreal/Project 3 - Crypt Raider/16. Making Grab And Release Callable From Blueprint.md",
-    "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/8. Firing Forwards.md",
-    "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/6. Blueprint Classes.md",
-    "Unreal/Learn Unreal/Project 1 - Warehouse Wreckage/5. Adding An Impulse.md"
+    "Unreal/Learn Unreal/Project 3 - Crypt Raider/16. Making Grab And Release Callable From Blueprint.md"
   ]
 }
