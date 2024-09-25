@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 4 - Toon Tanks/12. Making The Tower Class.md",
+                "file": "Unreal/Learn Unreal/Project 4 - Toon Tanks/13. Adding Firing Method.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 4 - Toon Tanks/12. Making The Tower Class.md",
+                "file": "Unreal/Learn Unreal/Project 4 - Toon Tanks/13. Adding Firing Method.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 4 - Toon Tanks/12. Making The Tower Class.md",
+                "file": "Unreal/Learn Unreal/Project 4 - Toon Tanks/13. Adding Firing Method.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 4 - Toon Tanks/12. Making The Tower Class.md"
+                "file": "Unreal/Learn Unreal/Project 4 - Toon Tanks/13. Adding Firing Method.md"
               }
             }
           }
@@ -147,8 +147,11 @@
   },
   "active": "dddac982a29d1183",
   "lastOpenFiles": [
-    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/12. Making The Tower Class/Reparenting BP_PawnTurret.png",
+    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/13. Adding Firing Method/Debug Spheres Where Projectiles Spawn.png",
+    "Unreal/Learn Unreal/Project 4 - Toon Tanks/13. Adding Firing Method.md",
+    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/13. Adding Firing Method",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/12. Making The Tower Class.md",
+    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/12. Making The Tower Class/Reparenting BP_PawnTurret.png",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/12. Making The Tower Class",
     "2024-09-25.md",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/11. Rotating The Turret.md",
@@ -170,13 +173,11 @@
     "gitleaks_report_7b16fe62-8ce8-45be-9cd4-abf8bbb28fc1.json",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/6. Binding Movement To Input/Axis Mappings.png",
     "gitleaks_report_df70d8ec-df10-448f-aeba-7d486428a574.json",
-    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/6. Binding Movement To Input",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/5. Possessing The Pawn.md",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/5. Possessing The Pawn/Checking Possessed Pawn.png",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/4. Making A Tank Actor Class.md",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/4. Making A Tank Actor Class/Rotating Spring Arm.png",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/4. Making A Tank Actor Class/Checking Camera And Spring Arm In Editor.png",
-    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/4. Making A Tank Actor Class/Camera And Spring Arm.png",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/3. Making BasePawn Subclasses.md",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/2. Creating A Base Pawn Class.md",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/1. Setting Up.md",
@@ -190,7 +191,6 @@
     "Unreal/Learn Unreal/Project 3 - Crypt Raider/6. Setting Up Player Pawn.md",
     "Unreal/Learn Unreal/Project 3 - Crypt Raider/20. Releasing The Object.md",
     "Unreal/Learn Unreal/Project 3 - Crypt Raider/19. Grabbing The Object.md",
-    "Unreal/Learn Unreal/Project 3 - Crypt Raider/18. Drawing Debug Spheres.md",
-    "Unreal/Learn Unreal/Project 3 - Crypt Raider/16. Making Grab And Release Callable From Blueprint.md"
+    "Unreal/Learn Unreal/Project 3 - Crypt Raider/18. Drawing Debug Spheres.md"
   ]
 }
