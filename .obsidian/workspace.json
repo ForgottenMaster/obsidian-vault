@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 4 - Toon Tanks/14. Making Tower Shoot.md",
+                "file": "Unreal/Learn Unreal/Project 4 - Toon Tanks/15. Creating The Projectile Class.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 4 - Toon Tanks/14. Making Tower Shoot.md",
+                "file": "Unreal/Learn Unreal/Project 4 - Toon Tanks/15. Creating The Projectile Class.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 4 - Toon Tanks/14. Making Tower Shoot.md",
+                "file": "Unreal/Learn Unreal/Project 4 - Toon Tanks/15. Creating The Projectile Class.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 4 - Toon Tanks/14. Making Tower Shoot.md"
+                "file": "Unreal/Learn Unreal/Project 4 - Toon Tanks/15. Creating The Projectile Class.md"
               }
             }
           }
@@ -147,10 +147,14 @@
   },
   "active": "9acc9ab8b3d21215",
   "lastOpenFiles": [
+    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/15. Creating The Projectile Class/Projectile Blueprint Class Static Mesh.png",
+    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/15. Creating The Projectile Class",
+    "Unreal/Learn Unreal/Project 4 - Toon Tanks/14. Making Tower Shoot.md",
+    "Unreal/Learn Unreal/Project 4 - Toon Tanks/15. Creating The Projectile Class.md",
+    "gitleaks_report_829c6761-7df9-4853-a2d2-1c9fded85141.json",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/14. Making Tower Shoot",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/14. Making Tower Shoot/Showing The Towers Shooting.png",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/13. Adding Firing Method.md",
-    "Unreal/Learn Unreal/Project 4 - Toon Tanks/14. Making Tower Shoot.md",
     "gitleaks_report_f5f52f81-8ab2-4cf8-a7a4-2e9b7ea72c25.json",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/13. Adding Firing Method/Debug Spheres Where Projectiles Spawn.png",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/13. Adding Firing Method",
@@ -171,10 +175,7 @@
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/Pasted image 20240924113458.png",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/7. Making Tank Collide.md",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/6. Binding Movement To Input.md",
-    "gitleaks_report_8d0fe501-d58a-4d35-8a89-1dd77402aead.json",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/7. Making Tank Collide/Setting Tank Collision Preset.png",
-    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/7. Making Tank Collide",
-    "gitleaks_report_7b16fe62-8ce8-45be-9cd4-abf8bbb28fc1.json",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/6. Binding Movement To Input/Axis Mappings.png",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/5. Possessing The Pawn.md",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/5. Possessing The Pawn/Checking Possessed Pawn.png",
@@ -191,7 +192,6 @@
     "Unreal/Learn Unreal/Project 3 - Crypt Raider/21. Overlap Checks.md",
     "Unreal/Learn Unreal/Project 3 - Crypt Raider/17. Setting Up A PhysicsHandle Component.md",
     "Unreal/Learn Unreal/Project 3 - Crypt Raider/6. Setting Up Player Pawn.md",
-    "Unreal/Learn Unreal/Project 3 - Crypt Raider/20. Releasing The Object.md",
-    "Unreal/Learn Unreal/Project 3 - Crypt Raider/19. Grabbing The Object.md"
+    "Unreal/Learn Unreal/Project 3 - Crypt Raider/20. Releasing The Object.md"
   ]
 }
