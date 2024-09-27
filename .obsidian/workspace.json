@@ -145,8 +145,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9acc9ab8b3d21215",
+  "active": "dddac982a29d1183",
   "lastOpenFiles": [
+    "gitleaks_report_6bedab5f-9154-43cc-a2d1-06954ff00a20.json",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/17. Moving The Projectile/Showing The Projectile Movement Works.gif",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/17. Moving The Projectile",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/New folder",
@@ -180,7 +181,6 @@
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/Pasted image 20240924113458.png",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/7. Making Tank Collide.md",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/6. Binding Movement To Input.md",
-    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/7. Making Tank Collide/Setting Tank Collision Preset.png",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/5. Possessing The Pawn.md",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/4. Making A Tank Actor Class.md",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/3. Making BasePawn Subclasses.md",
