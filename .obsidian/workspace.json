@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 4 - Toon Tanks/16. Spawning The Projectiles.md",
+                "file": "Unreal/Learn Unreal/Project 4 - Toon Tanks/17. Moving The Projectile.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 4 - Toon Tanks/16. Spawning The Projectiles.md",
+                "file": "Unreal/Learn Unreal/Project 4 - Toon Tanks/17. Moving The Projectile.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 4 - Toon Tanks/16. Spawning The Projectiles.md",
+                "file": "Unreal/Learn Unreal/Project 4 - Toon Tanks/17. Moving The Projectile.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 4 - Toon Tanks/16. Spawning The Projectiles.md"
+                "file": "Unreal/Learn Unreal/Project 4 - Toon Tanks/17. Moving The Projectile.md"
               }
             }
           }
@@ -145,11 +145,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dddac982a29d1183",
+  "active": "9acc9ab8b3d21215",
   "lastOpenFiles": [
+    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/17. Moving The Projectile/Showing The Projectile Movement Works.gif",
+    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/17. Moving The Projectile",
+    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/New folder",
+    "Unreal/Learn Unreal/Project 4 - Toon Tanks/16. Spawning The Projectiles.md",
+    "Unreal/Learn Unreal/Project 4 - Toon Tanks/17. Moving The Projectile.md",
+    "gitleaks_report_0c7adf99-0bef-43dd-9918-205e693da79e.json",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/16. Spawning The Projectiles/Demonstrating Only Projectile Subclasses Can Be Picked.png",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/16. Spawning The Projectiles/Checking Projectiles Are Spawned.png",
-    "Unreal/Learn Unreal/Project 4 - Toon Tanks/16. Spawning The Projectiles.md",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/16. Spawning The Projectiles",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/15. Creating The Projectile Class.md",
     "gitleaks_report_419e773b-d571-4c46-b1ab-072e634e1518.json",
@@ -165,15 +170,12 @@
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/13. Adding Firing Method",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/12. Making The Tower Class.md",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/12. Making The Tower Class/Reparenting BP_PawnTurret.png",
-    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/12. Making The Tower Class",
     "2024-09-25.md",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/11. Rotating The Turret.md",
-    "gitleaks_report_458787a6-9a31-4aef-821e-bdb68e094aab.json",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/10. Getting Location Under Cursor.md",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/8. Making Tank Rotate.md",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/5. Possessing The Pawn/Setting Possession Type.png",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/10. Getting Location Under Cursor/Showing Hit Location Under Cursor.png",
-    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/10. Getting Location Under Cursor",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/9. Getting The Tank's APlayerController.md",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/Pasted image 20240924113458.png",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/7. Making Tank Collide.md",
@@ -190,7 +192,6 @@
     "Unreal/Learn Unreal/Project 3 - Crypt Raider/23. Detecting Overlapping Actors.md",
     "Unreal/Learn Unreal/Project 3 - Crypt Raider/22. Enabling Ticking On UTrigger.md",
     "Unreal/Learn Unreal/Project 3 - Crypt Raider/21. Overlap Checks.md",
-    "Unreal/Learn Unreal/Project 3 - Crypt Raider/17. Setting Up A PhysicsHandle Component.md",
-    "Unreal/Learn Unreal/Project 3 - Crypt Raider/6. Setting Up Player Pawn.md"
+    "Unreal/Learn Unreal/Project 3 - Crypt Raider/17. Setting Up A PhysicsHandle Component.md"
   ]
 }
