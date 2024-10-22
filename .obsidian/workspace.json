@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e1cea46c75f9d617",
+        "id": "8cbf754d2baa8999",
         "type": "tabs",
         "children": [
           {
-            "id": "dddac982a29d1183",
+            "id": "b3e2f1954a57b52f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 4 - Toon Tanks/18. Detecting Projectile Hit.md",
+                "file": "Unreal/Learn Unreal/Project 4 - Toon Tanks/19. Health Component.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 4 - Toon Tanks/18. Detecting Projectile Hit.md",
+                "file": "Unreal/Learn Unreal/Project 4 - Toon Tanks/19. Health Component.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 4 - Toon Tanks/18. Detecting Projectile Hit.md",
+                "file": "Unreal/Learn Unreal/Project 4 - Toon Tanks/19. Health Component.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,11 +125,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 4 - Toon Tanks/18. Detecting Projectile Hit.md"
+                "file": "Unreal/Learn Unreal/Project 4 - Toon Tanks/19. Health Component.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -145,12 +146,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9acc9ab8b3d21215",
+  "active": "b3e2f1954a57b52f",
   "lastOpenFiles": [
+    "2024-09-25.md",
+    "Unreal/Learn Unreal/Project 4 - Toon Tanks/19. Health Component.md",
+    "Unreal/Learn Unreal/Project 4 - Toon Tanks/18. Detecting Projectile Hit.md",
+    "gitleaks_report_91b1ef78-1acf-4eb6-b2e6-dfb4ad4d5c8f.json",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/18. Detecting Projectile Hit",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/18. Detecting Projectile Hit/Checking That Projectile Hits Are Being Detected.png",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/17. Moving The Projectile.md",
-    "Unreal/Learn Unreal/Project 4 - Toon Tanks/18. Detecting Projectile Hit.md",
     "gitleaks_report_a7402eea-fd02-4cd6-8f22-b591f972a0a9.json",
     "gitleaks_report_6bedab5f-9154-43cc-a2d1-06954ff00a20.json",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/17. Moving The Projectile/Showing The Projectile Movement Works.gif",
@@ -166,14 +170,11 @@
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/15. Creating The Projectile Class/Projectile Blueprint Class Static Mesh.png",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/15. Creating The Projectile Class",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/14. Making Tower Shoot.md",
-    "gitleaks_report_829c6761-7df9-4853-a2d2-1c9fded85141.json",
-    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/14. Making Tower Shoot",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/14. Making Tower Shoot/Showing The Towers Shooting.png",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/13. Adding Firing Method.md",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/13. Adding Firing Method/Debug Spheres Where Projectiles Spawn.png",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/12. Making The Tower Class.md",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/12. Making The Tower Class/Reparenting BP_PawnTurret.png",
-    "2024-09-25.md",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/11. Rotating The Turret.md",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/10. Getting Location Under Cursor.md",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/8. Making Tank Rotate.md",
