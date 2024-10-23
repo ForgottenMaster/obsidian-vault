@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 4 - Toon Tanks/20. Applying Damage.md",
+                "file": "Unreal/Learn Unreal/Project 4 - Toon Tanks/21. Creating Game Mode.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20. Applying Damage"
+              "title": "21. Creating Game Mode"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 4 - Toon Tanks/20. Applying Damage.md",
+                "file": "Unreal/Learn Unreal/Project 4 - Toon Tanks/21. Creating Game Mode.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 20. Applying Damage"
+              "title": "Backlinks for 21. Creating Game Mode"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 4 - Toon Tanks/20. Applying Damage.md",
+                "file": "Unreal/Learn Unreal/Project 4 - Toon Tanks/21. Creating Game Mode.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 20. Applying Damage"
+              "title": "Outgoing links from 21. Creating Game Mode"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 4 - Toon Tanks/20. Applying Damage.md"
+                "file": "Unreal/Learn Unreal/Project 4 - Toon Tanks/21. Creating Game Mode.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 20. Applying Damage"
+              "title": "Outline of 21. Creating Game Mode"
             }
           }
         ],
@@ -164,10 +164,17 @@
   },
   "active": "970d5565158f9000",
   "lastOpenFiles": [
+    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/21. Creating Game Mode/Removing Manually Placed Tank.png",
+    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/21. Creating Game Mode/Setting The Game Mode.png",
+    "Unreal/Learn Unreal/Project 4 - Toon Tanks/21. Creating Game Mode.md",
+    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/21. Creating Game Mode/Setting The Default Pawn.png",
+    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/21. Creating Game Mode",
+    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/Untitled.md",
+    "Unreal/Learn Unreal/Project 4 - Toon Tanks/20. Applying Damage.md",
+    "gitleaks_report_f08adc4e-9cd3-45a7-a17d-66ad4c85dcc4.json",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/20. Applying Damage/Results.gif",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/20. Applying Damage",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/New folder",
-    "Unreal/Learn Unreal/Project 4 - Toon Tanks/20. Applying Damage.md",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/19. Health Component.md",
     "gitleaks_report_0e1328e3-7115-4489-94f6-b96dba04e304.json",
     "2024-09-25.md",
@@ -181,10 +188,8 @@
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/17. Moving The Projectile/Showing The Projectile Movement Works.gif",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/17. Moving The Projectile",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/16. Spawning The Projectiles.md",
-    "gitleaks_report_0c7adf99-0bef-43dd-9918-205e693da79e.json",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/16. Spawning The Projectiles/Demonstrating Only Projectile Subclasses Can Be Picked.png",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/16. Spawning The Projectiles/Checking Projectiles Are Spawned.png",
-    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/16. Spawning The Projectiles",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/15. Creating The Projectile Class.md",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/15. Creating The Projectile Class/Projectile Blueprint Class Static Mesh.png",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/14. Making Tower Shoot.md",
@@ -192,12 +197,9 @@
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/13. Adding Firing Method.md",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/13. Adding Firing Method/Debug Spheres Where Projectiles Spawn.png",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/12. Making The Tower Class.md",
-    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/12. Making The Tower Class/Reparenting BP_PawnTurret.png",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/11. Rotating The Turret.md",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/10. Getting Location Under Cursor.md",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/8. Making Tank Rotate.md",
-    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/5. Possessing The Pawn/Setting Possession Type.png",
-    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/10. Getting Location Under Cursor/Showing Hit Location Under Cursor.png",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/9. Getting The Tank's APlayerController.md",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/7. Making Tank Collide.md",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/6. Binding Movement To Input.md",
@@ -207,8 +209,6 @@
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/2. Creating A Base Pawn Class.md",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/1. Setting Up.md",
     "Unreal/Learn Unreal/Setup.md",
-    "Unreal/Learn Unreal/Project 3 - Crypt Raider/15. Making A Grab Action.md",
-    "Unreal/Learn Unreal/Project 3 - Crypt Raider/24. Filtering With Actor Tags.md",
-    "Unreal/Learn Unreal/Project 3 - Crypt Raider/23. Detecting Overlapping Actors.md"
+    "Unreal/Learn Unreal/Project 3 - Crypt Raider/15. Making A Grab Action.md"
   ]
 }
