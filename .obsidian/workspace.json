@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 4 - Toon Tanks/21. Creating Game Mode.md",
+                "file": "Unreal/Learn Unreal/Project 4 - Toon Tanks/22. Handling Pawn Death.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "21. Creating Game Mode"
+              "title": "22. Handling Pawn Death"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 4 - Toon Tanks/21. Creating Game Mode.md",
+                "file": "Unreal/Learn Unreal/Project 4 - Toon Tanks/22. Handling Pawn Death.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 21. Creating Game Mode"
+              "title": "Backlinks for 22. Handling Pawn Death"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 4 - Toon Tanks/21. Creating Game Mode.md",
+                "file": "Unreal/Learn Unreal/Project 4 - Toon Tanks/22. Handling Pawn Death.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 21. Creating Game Mode"
+              "title": "Outgoing links from 22. Handling Pawn Death"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 4 - Toon Tanks/21. Creating Game Mode.md"
+                "file": "Unreal/Learn Unreal/Project 4 - Toon Tanks/22. Handling Pawn Death.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 21. Creating Game Mode"
+              "title": "Outline of 22. Handling Pawn Death"
             }
           }
         ],
@@ -162,11 +162,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "970d5565158f9000",
+  "active": "9acc9ab8b3d21215",
   "lastOpenFiles": [
+    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/22. Handling Pawn Death/Overview.png",
+    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/22. Handling Pawn Death",
+    "Unreal/Learn Unreal/Project 4 - Toon Tanks/21. Creating Game Mode.md",
+    "Unreal/Learn Unreal/Project 4 - Toon Tanks/22. Handling Pawn Death.md",
+    "gitleaks_report_1081009b-bfc3-4a04-9373-8d35629c4aec.json",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/21. Creating Game Mode/Removing Manually Placed Tank.png",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/21. Creating Game Mode/Setting The Game Mode.png",
-    "Unreal/Learn Unreal/Project 4 - Toon Tanks/21. Creating Game Mode.md",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/21. Creating Game Mode/Setting The Default Pawn.png",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/21. Creating Game Mode",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/Untitled.md",
@@ -184,9 +188,7 @@
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/18. Detecting Projectile Hit/Checking That Projectile Hits Are Being Detected.png",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/17. Moving The Projectile.md",
     "gitleaks_report_a7402eea-fd02-4cd6-8f22-b591f972a0a9.json",
-    "gitleaks_report_6bedab5f-9154-43cc-a2d1-06954ff00a20.json",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/17. Moving The Projectile/Showing The Projectile Movement Works.gif",
-    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/17. Moving The Projectile",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/16. Spawning The Projectiles.md",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/16. Spawning The Projectiles/Demonstrating Only Projectile Subclasses Can Be Picked.png",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/16. Spawning The Projectiles/Checking Projectiles Are Spawned.png",
@@ -195,7 +197,6 @@
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/14. Making Tower Shoot.md",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/14. Making Tower Shoot/Showing The Towers Shooting.png",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/13. Adding Firing Method.md",
-    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/13. Adding Firing Method/Debug Spheres Where Projectiles Spawn.png",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/12. Making The Tower Class.md",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/11. Rotating The Turret.md",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/10. Getting Location Under Cursor.md",
@@ -208,7 +209,6 @@
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/3. Making BasePawn Subclasses.md",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/2. Creating A Base Pawn Class.md",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/1. Setting Up.md",
-    "Unreal/Learn Unreal/Setup.md",
-    "Unreal/Learn Unreal/Project 3 - Crypt Raider/15. Making A Grab Action.md"
+    "Unreal/Learn Unreal/Setup.md"
   ]
 }
