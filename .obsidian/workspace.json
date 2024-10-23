@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8cbf754d2baa8999",
+        "id": "883a5e70abe86540",
         "type": "tabs",
         "children": [
           {
-            "id": "b3e2f1954a57b52f",
+            "id": "970d5565158f9000",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 4 - Toon Tanks/19. Health Component.md",
+                "file": "Unreal/Learn Unreal/Project 4 - Toon Tanks/20. Applying Damage.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "20. Applying Damage"
             }
           }
         ]
@@ -39,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 4 - Toon Tanks/19. Health Component.md",
+                "file": "Unreal/Learn Unreal/Project 4 - Toon Tanks/20. Applying Damage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +101,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 20. Applying Damage"
             }
           },
           {
@@ -102,10 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 4 - Toon Tanks/19. Health Component.md",
+                "file": "Unreal/Learn Unreal/Project 4 - Toon Tanks/20. Applying Damage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 20. Applying Damage"
             }
           },
           {
@@ -116,7 +128,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,8 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 4 - Toon Tanks/19. Health Component.md"
-              }
+                "file": "Unreal/Learn Unreal/Project 4 - Toon Tanks/20. Applying Damage.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 20. Applying Damage"
             }
           }
         ],
@@ -146,10 +162,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b3e2f1954a57b52f",
+  "active": "970d5565158f9000",
   "lastOpenFiles": [
-    "2024-09-25.md",
+    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/20. Applying Damage/Results.gif",
+    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/20. Applying Damage",
+    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/New folder",
+    "Unreal/Learn Unreal/Project 4 - Toon Tanks/20. Applying Damage.md",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/19. Health Component.md",
+    "gitleaks_report_0e1328e3-7115-4489-94f6-b96dba04e304.json",
+    "2024-09-25.md",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/18. Detecting Projectile Hit.md",
     "gitleaks_report_91b1ef78-1acf-4eb6-b2e6-dfb4ad4d5c8f.json",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/18. Detecting Projectile Hit",
@@ -159,16 +180,13 @@
     "gitleaks_report_6bedab5f-9154-43cc-a2d1-06954ff00a20.json",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/17. Moving The Projectile/Showing The Projectile Movement Works.gif",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/17. Moving The Projectile",
-    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/New folder",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/16. Spawning The Projectiles.md",
     "gitleaks_report_0c7adf99-0bef-43dd-9918-205e693da79e.json",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/16. Spawning The Projectiles/Demonstrating Only Projectile Subclasses Can Be Picked.png",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/16. Spawning The Projectiles/Checking Projectiles Are Spawned.png",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/16. Spawning The Projectiles",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/15. Creating The Projectile Class.md",
-    "gitleaks_report_419e773b-d571-4c46-b1ab-072e634e1518.json",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/15. Creating The Projectile Class/Projectile Blueprint Class Static Mesh.png",
-    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/15. Creating The Projectile Class",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/14. Making Tower Shoot.md",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/14. Making Tower Shoot/Showing The Towers Shooting.png",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/13. Adding Firing Method.md",
@@ -191,8 +209,6 @@
     "Unreal/Learn Unreal/Setup.md",
     "Unreal/Learn Unreal/Project 3 - Crypt Raider/15. Making A Grab Action.md",
     "Unreal/Learn Unreal/Project 3 - Crypt Raider/24. Filtering With Actor Tags.md",
-    "Unreal/Learn Unreal/Project 3 - Crypt Raider/23. Detecting Overlapping Actors.md",
-    "Unreal/Learn Unreal/Project 3 - Crypt Raider/22. Enabling Ticking On UTrigger.md",
-    "Unreal/Learn Unreal/Project 3 - Crypt Raider/21. Overlap Checks.md"
+    "Unreal/Learn Unreal/Project 3 - Crypt Raider/23. Detecting Overlapping Actors.md"
   ]
 }
