@@ -11,14 +11,12 @@
             "id": "970d5565158f9000",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 4 - Toon Tanks/22. Handling Pawn Death.md",
-                "mode": "source",
-                "source": false
+                "file": "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/23. Creating A Custom PlayerController/Changing Mouse Cursor Type.png"
               },
-              "icon": "lucide-file",
-              "title": "22. Handling Pawn Death"
+              "icon": "lucide-image",
+              "title": "Changing Mouse Cursor Type"
             }
           }
         ]
@@ -139,10 +137,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 4 - Toon Tanks/22. Handling Pawn Death.md"
+                "file": "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/23. Creating A Custom PlayerController/Changing Mouse Cursor Type.png"
               },
               "icon": "lucide-list",
-              "title": "Outline of 22. Handling Pawn Death"
+              "title": "Outline of Changing Mouse Cursor Type"
             }
           }
         ],
@@ -164,10 +162,16 @@
   },
   "active": "9acc9ab8b3d21215",
   "lastOpenFiles": [
+    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/23. Creating A Custom PlayerController/Creating Derived Blueprint Class.png",
+    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/23. Creating A Custom PlayerController/Changing Mouse Cursor Type.png",
+    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/23. Creating A Custom PlayerController/Setting Player Controller To Use.png",
+    "Unreal/Learn Unreal/Project 4 - Toon Tanks/23. Creating A Custom PlayerController.md",
+    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/23. Creating A Custom PlayerController",
+    "Unreal/Learn Unreal/Project 4 - Toon Tanks/Pasted image 20241024145532.png",
+    "Unreal/Learn Unreal/Project 4 - Toon Tanks/22. Handling Pawn Death.md",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/22. Handling Pawn Death/Overview.png",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/22. Handling Pawn Death",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/21. Creating Game Mode.md",
-    "Unreal/Learn Unreal/Project 4 - Toon Tanks/22. Handling Pawn Death.md",
     "gitleaks_report_1081009b-bfc3-4a04-9373-8d35629c4aec.json",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/21. Creating Game Mode/Removing Manually Placed Tank.png",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/21. Creating Game Mode/Setting The Game Mode.png",
@@ -187,15 +191,9 @@
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/18. Detecting Projectile Hit",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/18. Detecting Projectile Hit/Checking That Projectile Hits Are Being Detected.png",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/17. Moving The Projectile.md",
-    "gitleaks_report_a7402eea-fd02-4cd6-8f22-b591f972a0a9.json",
-    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/17. Moving The Projectile/Showing The Projectile Movement Works.gif",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/16. Spawning The Projectiles.md",
-    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/16. Spawning The Projectiles/Demonstrating Only Projectile Subclasses Can Be Picked.png",
-    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/16. Spawning The Projectiles/Checking Projectiles Are Spawned.png",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/15. Creating The Projectile Class.md",
-    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/15. Creating The Projectile Class/Projectile Blueprint Class Static Mesh.png",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/14. Making Tower Shoot.md",
-    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/14. Making Tower Shoot/Showing The Towers Shooting.png",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/13. Adding Firing Method.md",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/12. Making The Tower Class.md",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/11. Rotating The Turret.md",
@@ -208,7 +206,6 @@
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/4. Making A Tank Actor Class.md",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/3. Making BasePawn Subclasses.md",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/2. Creating A Base Pawn Class.md",
-    "Unreal/Learn Unreal/Project 4 - Toon Tanks/1. Setting Up.md",
-    "Unreal/Learn Unreal/Setup.md"
+    "Unreal/Learn Unreal/Project 4 - Toon Tanks/1. Setting Up.md"
   ]
 }
