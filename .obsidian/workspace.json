@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "883a5e70abe86540",
+        "id": "34b7b342d90512d8",
         "type": "tabs",
         "children": [
           {
-            "id": "970d5565158f9000",
+            "id": "4e66d6487b84bb74",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/23. Creating A Custom PlayerController/Changing Mouse Cursor Type.png"
+                "file": "Unreal/Learn Unreal/Project 4 - Toon Tanks/24. Starting The Game.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Changing Mouse Cursor Type"
+              "icon": "lucide-file",
+              "title": "24. Starting The Game"
             }
           }
         ]
@@ -137,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/23. Creating A Custom PlayerController/Changing Mouse Cursor Type.png"
+                "file": "Unreal/Learn Unreal/Project 4 - Toon Tanks/24. Starting The Game.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Changing Mouse Cursor Type"
+              "title": "Outline of 24. Starting The Game"
             }
           }
         ],
@@ -162,10 +164,13 @@
   },
   "active": "9acc9ab8b3d21215",
   "lastOpenFiles": [
-    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/23. Creating A Custom PlayerController/Creating Derived Blueprint Class.png",
-    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/23. Creating A Custom PlayerController/Changing Mouse Cursor Type.png",
-    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/23. Creating A Custom PlayerController/Setting Player Controller To Use.png",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/23. Creating A Custom PlayerController.md",
+    "Unreal/Learn Unreal/Project 4 - Toon Tanks/14. Making Tower Shoot.md",
+    "Unreal/Learn Unreal/Project 4 - Toon Tanks/24. Starting The Game.md",
+    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/23. Creating A Custom PlayerController/Changing Mouse Cursor Type.png",
+    "gitleaks_report_e1c51b4d-f190-42a5-83ca-c41af2f4e1ab.json",
+    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/23. Creating A Custom PlayerController/Creating Derived Blueprint Class.png",
+    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/23. Creating A Custom PlayerController/Setting Player Controller To Use.png",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/23. Creating A Custom PlayerController",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/Pasted image 20241024145532.png",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/22. Handling Pawn Death.md",
@@ -188,12 +193,10 @@
     "2024-09-25.md",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/18. Detecting Projectile Hit.md",
     "gitleaks_report_91b1ef78-1acf-4eb6-b2e6-dfb4ad4d5c8f.json",
-    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/18. Detecting Projectile Hit",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/18. Detecting Projectile Hit/Checking That Projectile Hits Are Being Detected.png",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/17. Moving The Projectile.md",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/16. Spawning The Projectiles.md",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/15. Creating The Projectile Class.md",
-    "Unreal/Learn Unreal/Project 4 - Toon Tanks/14. Making Tower Shoot.md",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/13. Adding Firing Method.md",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/12. Making The Tower Class.md",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/11. Rotating The Turret.md",
