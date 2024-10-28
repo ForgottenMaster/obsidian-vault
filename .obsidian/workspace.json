@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 4 - Toon Tanks/24. Starting The Game.md",
+                "file": "Unreal/Learn Unreal/Project 4 - Toon Tanks/25. Start Game Widget.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "24. Starting The Game"
+              "title": "25. Start Game Widget"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 4 - Toon Tanks/24. Starting The Game.md"
+                "file": "Unreal/Learn Unreal/Project 4 - Toon Tanks/25. Start Game Widget.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 24. Starting The Game"
+              "title": "Outline of 25. Start Game Widget"
             }
           }
         ],
@@ -162,38 +162,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9acc9ab8b3d21215",
+  "active": "4e66d6487b84bb74",
   "lastOpenFiles": [
+    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/25. Start Game Widget/Widget Blueprint Interface.png",
+    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/25. Start Game Widget/Adding To Viewport.png",
+    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/25. Start Game Widget/Setting Size.png",
+    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/25. Start Game Widget/Setting Text.png",
+    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/25. Start Game Widget/Setting Position.png",
+    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/25. Start Game Widget/Setting Alignment.png",
+    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/25. Start Game Widget/Changing The Anchor.png",
+    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/25. Start Game Widget/Noticing The Anchor.png",
+    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/25. Start Game Widget/Adding A Text Block.png",
+    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/25. Start Game Widget/Adding A Canvas Panel.png",
+    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/25. Start Game Widget/Creating A Widget Blueprint.png",
+    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/25. Start Game Widget",
+    "Unreal/Learn Unreal/Project 4 - Toon Tanks/25. Start Game Widget.md",
+    "Unreal/Learn Unreal/Project 4 - Toon Tanks/24. Starting The Game.md",
+    "gitleaks_report_44509941-aa57-45d5-ad47-c51a26c2370e.json",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/23. Creating A Custom PlayerController.md",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/14. Making Tower Shoot.md",
-    "Unreal/Learn Unreal/Project 4 - Toon Tanks/24. Starting The Game.md",
-    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/23. Creating A Custom PlayerController/Changing Mouse Cursor Type.png",
     "gitleaks_report_e1c51b4d-f190-42a5-83ca-c41af2f4e1ab.json",
-    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/23. Creating A Custom PlayerController/Creating Derived Blueprint Class.png",
-    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/23. Creating A Custom PlayerController/Setting Player Controller To Use.png",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/23. Creating A Custom PlayerController",
-    "Unreal/Learn Unreal/Project 4 - Toon Tanks/Pasted image 20241024145532.png",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/22. Handling Pawn Death.md",
-    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/22. Handling Pawn Death/Overview.png",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/22. Handling Pawn Death",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/21. Creating Game Mode.md",
     "gitleaks_report_1081009b-bfc3-4a04-9373-8d35629c4aec.json",
-    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/21. Creating Game Mode/Removing Manually Placed Tank.png",
-    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/21. Creating Game Mode/Setting The Game Mode.png",
-    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/21. Creating Game Mode/Setting The Default Pawn.png",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/21. Creating Game Mode",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/Untitled.md",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/20. Applying Damage.md",
     "gitleaks_report_f08adc4e-9cd3-45a7-a17d-66ad4c85dcc4.json",
-    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/20. Applying Damage/Results.gif",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/20. Applying Damage",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/New folder",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/19. Health Component.md",
-    "gitleaks_report_0e1328e3-7115-4489-94f6-b96dba04e304.json",
     "2024-09-25.md",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/18. Detecting Projectile Hit.md",
-    "gitleaks_report_91b1ef78-1acf-4eb6-b2e6-dfb4ad4d5c8f.json",
-    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/18. Detecting Projectile Hit/Checking That Projectile Hits Are Being Detected.png",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/17. Moving The Projectile.md",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/16. Spawning The Projectiles.md",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/15. Creating The Projectile Class.md",
@@ -207,8 +209,6 @@
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/6. Binding Movement To Input.md",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/5. Possessing The Pawn.md",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/4. Making A Tank Actor Class.md",
-    "Unreal/Learn Unreal/Project 4 - Toon Tanks/3. Making BasePawn Subclasses.md",
-    "Unreal/Learn Unreal/Project 4 - Toon Tanks/2. Creating A Base Pawn Class.md",
-    "Unreal/Learn Unreal/Project 4 - Toon Tanks/1. Setting Up.md"
+    "Unreal/Learn Unreal/Project 4 - Toon Tanks/3. Making BasePawn Subclasses.md"
   ]
 }
