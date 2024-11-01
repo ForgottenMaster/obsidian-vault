@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "34b7b342d90512d8",
+        "id": "154d4bcfd31a6790",
         "type": "tabs",
         "children": [
           {
-            "id": "4e66d6487b84bb74",
+            "id": "c1b363d555fe3f8b",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/27. Changing Text On Widget/Changing Name And Setting Is Variable.png"
-              },
-              "icon": "lucide-image",
-              "title": "Changing Name And Setting Is Variable"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -136,11 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/27. Changing Text On Widget/Changing Name And Setting Is Variable.png"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of Changing Name And Setting Is Variable"
+              "title": "Outline"
             }
           }
         ],
@@ -160,23 +156,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9acc9ab8b3d21215",
+  "active": "c1b363d555fe3f8b",
   "lastOpenFiles": [
+    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/28. Winning And Losing/Output On Win.png",
+    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/28. Winning And Losing/Output On Lose.png",
+    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/28. Winning And Losing/Blueprint Implementation Of Game Over Event.png",
+    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/28. Winning And Losing",
+    "Unreal/Learn Unreal/Project 4 - Toon Tanks/28. Winning And Losing.md",
+    "Unreal/Learn Unreal/Project 4 - Toon Tanks/27. Changing Text On Widget.md",
+    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/27. Changing Text On Widget/Changing Name And Setting Is Variable.png",
+    "gitleaks_report_0ecc5a7f-c441-4d37-9122-040d996b7f66.json",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/27. Changing Text On Widget/Choosing A Shadow Color For Text.png",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/27. Changing Text On Widget/Middle Justification Of Text.png",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/27. Changing Text On Widget/Removing Element From Parent Widget.png",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/27. Changing Text On Widget/Using SetText Node.png",
-    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/27. Changing Text On Widget/Changing Name And Setting Is Variable.png",
-    "Unreal/Learn Unreal/Project 4 - Toon Tanks/27. Changing Text On Widget.md",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/27. Changing Text On Widget/Results.gif",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/27. Changing Text On Widget",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/New folder",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/26. Adding Start Game Widget Countdown Logic.md",
     "gitleaks_report_68432b2e-c43e-4f92-8fe2-1f9242b7afd8.json",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/26. Adding Start Game Widget Countdown Logic/Subtracting From Countdown Variable.png",
-    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/26. Adding Start Game Widget Countdown Logic/Print Out Correct Strings.png",
-    "Unreal/Learn Unreal/Project 4 - Toon Tanks/Pasted image 20241028152225.png",
-    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/26. Adding Start Game Widget Countdown Logic/Ceil And Switch On Int.png",
     "Unreal/Learn Unreal/Setup.md",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/26. Adding Start Game Widget Countdown Logic",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/25. Start Game Widget.md",
@@ -187,9 +186,7 @@
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/23. Creating A Custom PlayerController.md",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/14. Making Tower Shoot.md",
     "gitleaks_report_e1c51b4d-f190-42a5-83ca-c41af2f4e1ab.json",
-    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/23. Creating A Custom PlayerController",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/22. Handling Pawn Death.md",
-    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/22. Handling Pawn Death",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/21. Creating Game Mode.md",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/Untitled.md",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/20. Applying Damage.md",
@@ -205,7 +202,6 @@
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/10. Getting Location Under Cursor.md",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/8. Making Tank Rotate.md",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/9. Getting The Tank's APlayerController.md",
-    "Unreal/Learn Unreal/Project 4 - Toon Tanks/7. Making Tank Collide.md",
-    "Unreal/Learn Unreal/Project 4 - Toon Tanks/6. Binding Movement To Input.md"
+    "Unreal/Learn Unreal/Project 4 - Toon Tanks/7. Making Tank Collide.md"
   ]
 }
