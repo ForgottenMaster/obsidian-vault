@@ -11,12 +11,14 @@
             "id": "084043f6966ba7ec",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/29. Displaying Game Over/Adding Spawning Of Widget.png"
+                "file": "Unreal/Learn Unreal/Project 4 - Toon Tanks/30. Hit Particles.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Adding Spawning Of Widget"
+              "icon": "lucide-file",
+              "title": "30. Hit Particles"
             }
           }
         ]
@@ -137,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/29. Displaying Game Over/Adding Spawning Of Widget.png"
+                "file": "Unreal/Learn Unreal/Project 4 - Toon Tanks/30. Hit Particles.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Adding Spawning Of Widget"
+              "title": "Outline of 30. Hit Particles"
             }
           }
         ],
@@ -160,21 +162,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9acc9ab8b3d21215",
+  "active": "084043f6966ba7ec",
   "lastOpenFiles": [
+    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/30. Hit Particles/Binding Hit Effect In Blueprint.png",
+    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/30. Hit Particles/Particle System Editor.png",
+    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/30. Hit Particles/Particle Systems In Toon Tanks.png",
+    "Unreal/Learn Unreal/Project 4 - Toon Tanks/30. Hit Particles.md",
+    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/30. Hit Particles/Results.gif",
+    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/29. Displaying Game Over/Adding Spawning Of Widget.png",
+    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/30. Hit Particles",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/29. Displaying Game Over/Testing Win Case.png",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/29. Displaying Game Over/Testing Lose Case.png",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/29. Displaying Game Over/Selecting Text To Display.png",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/29. Displaying Game Over/Getting The Display Text Element To Set Text On.png",
-    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/29. Displaying Game Over/Adding Spawning Of Widget.png",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/29. Displaying Game Over/What End Game Widget Looks Like Before Starting.png",
-    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/29. Displaying Game Over/Duplicating An Asset.png",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/29. Displaying Game Over.md",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/29. Displaying Game Over",
     "gitleaks_report_5bcbaa25-dd79-4f88-9685-6bd9dcb91f27.json",
-    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/28. Winning And Losing/Output On Win.png",
-    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/28. Winning And Losing/Output On Lose.png",
-    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/28. Winning And Losing/Blueprint Implementation Of Game Over Event.png",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/28. Winning And Losing",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/28. Winning And Losing.md",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/27. Changing Text On Widget.md",
@@ -187,7 +191,6 @@
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/26. Adding Start Game Widget Countdown Logic",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/25. Start Game Widget.md",
     "gitleaks_report_d1ac97a1-2571-413c-8ba2-418c551d54f8.json",
-    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/25. Start Game Widget",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/24. Starting The Game.md",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/23. Creating A Custom PlayerController.md",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/14. Making Tower Shoot.md",
@@ -205,7 +208,6 @@
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/12. Making The Tower Class.md",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/11. Rotating The Turret.md",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/10. Getting Location Under Cursor.md",
-    "Unreal/Learn Unreal/Project 4 - Toon Tanks/8. Making Tank Rotate.md",
-    "Unreal/Learn Unreal/Project 4 - Toon Tanks/9. Getting The Tank's APlayerController.md"
+    "Unreal/Learn Unreal/Project 4 - Toon Tanks/8. Making Tank Rotate.md"
   ]
 }
