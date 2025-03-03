@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "31. Smoke Trails"
             }
+          },
+          {
+            "id": "7169c56d3c96e765",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unreal/Learn Unreal/Project 4 - Toon Tanks/32. Death Particles.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "32. Death Particles"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -40,7 +55,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -139,10 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 4 - Toon Tanks/31. Smoke Trails.md"
+                "file": "Unreal/Learn Unreal/Project 4 - Toon Tanks/32. Death Particles.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 31. Smoke Trails"
+              "title": "Outline of 32. Death Particles"
             }
           }
         ],
@@ -162,13 +181,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9acc9ab8b3d21215",
+  "active": "7169c56d3c96e765",
   "lastOpenFiles": [
+    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/32. Death Particles/Set Up Death Effect Particles In Blueprints.png",
+    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/32. Death Particles/Death Effect.gif",
+    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/32. Death Particles",
+    "Unreal/Learn Unreal/Project 4 - Toon Tanks/32. Death Particles.md",
+    "Unreal/Learn Unreal/Project 4 - Toon Tanks/30. Hit Particles.md",
+    "Unreal/Learn Unreal/Setup.md",
+    "Unreal/Learn Unreal/Project 4 - Toon Tanks/31. Smoke Trails.md",
+    "gitleaks_report_08d7743d-b3e6-4143-9bb0-4f421afcabbf.json",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/31. Smoke Trails/Results.gif",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/31. Smoke Trails/Showing Binding Of Template To Particle System Component.png",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/31. Smoke Trails",
-    "Unreal/Learn Unreal/Project 4 - Toon Tanks/31. Smoke Trails.md",
-    "Unreal/Learn Unreal/Project 4 - Toon Tanks/30. Hit Particles.md",
     "gitleaks_report_e9dfb3f6-fe03-4785-a647-3ef123831616.json",
     "gitleaks_report_a7a5888d-b025-4f1d-bdc7-58da3fe86a72.json",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/30. Hit Particles/Binding Hit Effect In Blueprint.png",
@@ -178,8 +203,6 @@
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/29. Displaying Game Over/Adding Spawning Of Widget.png",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/30. Hit Particles",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/29. Displaying Game Over/Testing Win Case.png",
-    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/29. Displaying Game Over/Testing Lose Case.png",
-    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/29. Displaying Game Over/Selecting Text To Display.png",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/29. Displaying Game Over.md",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/29. Displaying Game Over",
     "gitleaks_report_5bcbaa25-dd79-4f88-9685-6bd9dcb91f27.json",
@@ -187,10 +210,7 @@
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/28. Winning And Losing.md",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/27. Changing Text On Widget.md",
     "gitleaks_report_0ecc5a7f-c441-4d37-9122-040d996b7f66.json",
-    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/27. Changing Text On Widget",
-    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/New folder",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/26. Adding Start Game Widget Countdown Logic.md",
-    "Unreal/Learn Unreal/Setup.md",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/25. Start Game Widget.md",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/24. Starting The Game.md",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/23. Creating A Custom PlayerController.md",
@@ -207,7 +227,6 @@
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/15. Creating The Projectile Class.md",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/13. Adding Firing Method.md",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/12. Making The Tower Class.md",
-    "Unreal/Learn Unreal/Project 4 - Toon Tanks/11. Rotating The Turret.md",
-    "Unreal/Learn Unreal/Project 4 - Toon Tanks/10. Getting Location Under Cursor.md"
+    "Unreal/Learn Unreal/Project 4 - Toon Tanks/11. Rotating The Turret.md"
   ]
 }
