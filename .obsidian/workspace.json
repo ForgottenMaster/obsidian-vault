@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 4 - Toon Tanks/33. Adding Sounds.md",
+                "file": "Unreal/Learn Unreal/Project 4 - Toon Tanks/34. Camera Shake.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "33. Adding Sounds"
+              "title": "34. Camera Shake"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 4 - Toon Tanks/33. Adding Sounds.md",
+                "file": "Unreal/Learn Unreal/Project 4 - Toon Tanks/34. Camera Shake.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 33. Adding Sounds"
+              "title": "Outline of 34. Camera Shake"
             }
           }
         ],
@@ -168,32 +168,33 @@
   },
   "active": "084043f6966ba7ec",
   "lastOpenFiles": [
+    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/34. Camera Shake/Binding Death Camera Shake.png",
+    "Unreal/Learn Unreal/Project 4 - Toon Tanks/34. Camera Shake.md",
+    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/34. Camera Shake",
+    "Unreal/Learn Unreal/Project 4 - Toon Tanks/33. Adding Sounds.md",
+    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/34. Camera Shake/Sine Wave Demo.gif",
+    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/34. Camera Shake/Binding Hit Camera Shake.png",
+    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/34. Camera Shake/Filling Out Info For Death Shake.png",
+    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/34. Camera Shake/Filling Out Info For Hit Shake.png",
+    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/34. Camera Shake/Showing Selecting LegacyCameraShake As Parent.png",
+    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/34. Camera Shake/Camera Shake On Toon Tanks.gif",
+    "Unreal/Learn Unreal/Project 4 - Toon Tanks/One_positive_frequency_component,_cosine_and_sine,_from_rotating_vector_(fast_animation).gif.crdownload",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/31. Smoke Trails.md",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/33. Adding Sounds/Binding Sounds To Projectile.png",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/33. Adding Sounds/Binding Sounds To Pawns.png",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/33. Adding Sounds",
-    "Unreal/Learn Unreal/Project 4 - Toon Tanks/33. Adding Sounds.md",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/32. Death Particles.md",
     "gitleaks_report_8ed8a3a2-9eb5-4460-96e3-786e60c61891.json",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/32. Death Particles/Set Up Death Effect Particles In Blueprints.png",
-    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/32. Death Particles/Death Effect.gif",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/32. Death Particles",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/30. Hit Particles.md",
     "Unreal/Learn Unreal/Setup.md",
     "gitleaks_report_08d7743d-b3e6-4143-9bb0-4f421afcabbf.json",
-    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/31. Smoke Trails/Results.gif",
-    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/31. Smoke Trails/Showing Binding Of Template To Particle System Component.png",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/31. Smoke Trails",
     "gitleaks_report_e9dfb3f6-fe03-4785-a647-3ef123831616.json",
     "gitleaks_report_a7a5888d-b025-4f1d-bdc7-58da3fe86a72.json",
-    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/30. Hit Particles/Binding Hit Effect In Blueprint.png",
-    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/30. Hit Particles/Particle System Editor.png",
-    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/30. Hit Particles/Particle Systems In Toon Tanks.png",
-    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/30. Hit Particles/Results.gif",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/30. Hit Particles",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/29. Displaying Game Over.md",
-    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/29. Displaying Game Over",
-    "gitleaks_report_5bcbaa25-dd79-4f88-9685-6bd9dcb91f27.json",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/28. Winning And Losing.md",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/27. Changing Text On Widget.md",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/26. Adding Start Game Widget Countdown Logic.md",
@@ -211,7 +212,6 @@
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/17. Moving The Projectile.md",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/16. Spawning The Projectiles.md",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/15. Creating The Projectile Class.md",
-    "Unreal/Learn Unreal/Project 4 - Toon Tanks/13. Adding Firing Method.md",
-    "Unreal/Learn Unreal/Project 4 - Toon Tanks/12. Making The Tower Class.md"
+    "Unreal/Learn Unreal/Project 4 - Toon Tanks/13. Adding Firing Method.md"
   ]
 }
