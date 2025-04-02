@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 4 - Toon Tanks/34. Camera Shake.md",
+                "file": "Vulkan/Let's Learn Vulkan/18. Textures Part 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "34. Camera Shake"
+              "title": "18. Textures Part 2"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 482.5
+    "width": 295.5
   },
   "right": {
     "id": "7b5dd3b1525c5b6f",
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unreal/Learn Unreal/Project 4 - Toon Tanks/34. Camera Shake.md",
+                "file": "Vulkan/Let's Learn Vulkan/18. Textures Part 2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 34. Camera Shake"
+              "title": "Outline of 18. Textures Part 2"
             }
           }
         ],
@@ -154,7 +154,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,8 +168,15 @@
   },
   "active": "084043f6966ba7ec",
   "lastOpenFiles": [
-    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/34. Camera Shake/Binding Death Camera Shake.png",
+    "+Attachments/Vulkan/Let's Learn Vulkan/18. Textures Part 2/texture-untinted.gif",
+    "+Attachments/Vulkan/Let's Learn Vulkan/18. Textures Part 2/texture-tinted.gif",
+    "Vulkan/Let's Learn Vulkan/13. Uniform Buffer Objects.md",
+    "Vulkan/Let's Learn Vulkan/17. Textures Part 1.md",
+    "Vulkan/Let's Learn Vulkan/18. Textures Part 2.md",
+    "Vulkan/Let's Learn Vulkan/16. Depth Buffers.md",
+    "+Attachments/Vulkan/Let's Learn Vulkan/18. Textures Part 2",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/34. Camera Shake.md",
+    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/34. Camera Shake/Binding Death Camera Shake.png",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/34. Camera Shake",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/33. Adding Sounds.md",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/34. Camera Shake/Sine Wave Demo.gif",
@@ -185,7 +192,6 @@
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/33. Adding Sounds",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/32. Death Particles.md",
     "gitleaks_report_8ed8a3a2-9eb5-4460-96e3-786e60c61891.json",
-    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/32. Death Particles/Set Up Death Effect Particles In Blueprints.png",
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/32. Death Particles",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/30. Hit Particles.md",
     "Unreal/Learn Unreal/Setup.md",
@@ -193,7 +199,6 @@
     "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/31. Smoke Trails",
     "gitleaks_report_e9dfb3f6-fe03-4785-a647-3ef123831616.json",
     "gitleaks_report_a7a5888d-b025-4f1d-bdc7-58da3fe86a72.json",
-    "+Attachments/Unreal/Learn Unreal/Project 4 - Toon Tanks/30. Hit Particles",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/29. Displaying Game Over.md",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/28. Winning And Losing.md",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/27. Changing Text On Widget.md",
@@ -208,10 +213,6 @@
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/20. Applying Damage.md",
     "Unreal/Learn Unreal/Project 4 - Toon Tanks/19. Health Component.md",
     "2024-09-25.md",
-    "Unreal/Learn Unreal/Project 4 - Toon Tanks/18. Detecting Projectile Hit.md",
-    "Unreal/Learn Unreal/Project 4 - Toon Tanks/17. Moving The Projectile.md",
-    "Unreal/Learn Unreal/Project 4 - Toon Tanks/16. Spawning The Projectiles.md",
-    "Unreal/Learn Unreal/Project 4 - Toon Tanks/15. Creating The Projectile Class.md",
-    "Unreal/Learn Unreal/Project 4 - Toon Tanks/13. Adding Firing Method.md"
+    "Unreal/Learn Unreal/Project 4 - Toon Tanks/18. Detecting Projectile Hit.md"
   ]
 }
